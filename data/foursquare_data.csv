@@ -1,0 +1,2413 @@
+station_id,name,distance,rating,popularity,price,hours,hours_popular,category
+204,Tuela Grill,12,,,,,,restaurants
+204,Jambú Gastronomia,66,,,,,,restaurants
+204,Bar do Pedrão,15,,,,,,restaurants
+204,Bar e Lanches Recanto da Consolação,23,,,,,,restaurants
+204,Coffee Corner,32,,,,,,restaurants
+204,Pasta & Dolce,6,,,,,,restaurants
+204,Tia Maria Gastronomia,16,,,,,,restaurants
+204,Mini Club,20,,,,,,restaurants
+204,DJ Trattoria,27,,,,,,restaurants
+204,Tarado's Bar,41,,,,,,restaurants
+204,Pasta & Dolce,6,,,,,,coffee shops
+204,Cofeecorner,44,,,,,,coffee shops
+204,Bravo Café,46,,,,,,coffee shops
+204,Dona julia cafe,62,,,,,,coffee shops
+204,Café Itallian,95,,,,,,coffee shops
+204,Aj Sucos e Lanches,15,,,,,,bakeries
+204,A J Consolação Paes e Doces,120,,,,,,bakeries
+7,Abençoado Hot Dog,25,,,,,,restaurants
+556,Aquelle Lugar Natural,73,,,,,,restaurants
+556,Via Maria,58,,,,,,restaurants
+556,Villa Felice Restaurante,50,,,,,,restaurants
+556,Beco 74,35,,,,,,restaurants
+556,Terraço Taiyoo,83,,,,,,restaurants
+556,Savana Bar e Restaurante,43,,,,,,restaurants
+556,Pracinha Gourmet,48,,,,,,restaurants
+556,Espaço Hibisco,48,,,,,,restaurants
+556,Art Kilo,36,,,,,,restaurants
+556,Natural Restaurante,80,,,,,,restaurants
+556,Mr Cheney Cookies (Mr. Cheney Cookies),94,,,,,,coffee shops
+556,5°ZCoffee,17,,,,,,coffee shops
+556,Coffe Assurance IT,41,,,,,,coffee shops
+556,EVS - Espaço Vida Saudável,51,,,,,,coffee shops
+556,EVS - Espaço Vida Saudável Herbalife,81,,,,,,coffee shops
+556,EVS - Espaço Vida Saudável Herbalife,95,,,,,,coffee shops
+556,Villa Pan Express,98,,,,,,bakeries
+14,Mysth Sushi Gourmet,36,,,,,,restaurants
+14,Casa do Pão de Queijo,12,,,,,,restaurants
+14,Doce d'Oce Patisserie,32,,,,,,restaurants
+14,L Artiste,35,,,,,,restaurants
+14,Siá Mariana,39,,,,,,restaurants
+14,Temakeria Makis Place,41,,,,,,restaurants
+14,Encontro Paulistano,44,,,,,,restaurants
+14,Chocolates Brasil Cacau,91,,,,,,restaurants
+14,Restaurante Jj,44,,,,,,restaurants
+14,Casa do Pão de Queijo-Conjunto Nacional,46,,,,,,restaurants
+14,Um Coffee Co.,83,,,,,,coffee shops
+573,Jaber Especialidades Árabes,63,,,,,,restaurants
+573,Pistachio Bakery,77,,,,,,restaurants
+573,Yaki Temakeria & Yakissoba,81,,,,,,restaurants
+573,Restaurante Tapera,96,,,,,,restaurants
+573,Posto do Açaí,79,,,,,,restaurants
+573,Flor do Paraíso,23,,,,,,restaurants
+573,Padoca - QG,5,,,,,,restaurants
+573,Recanto Paraíso,30,,,,,,restaurants
+573,Doceria Paraíso,41,,,,,,restaurants
+573,Catedral Especialidades Árabes,81,,,,,,restaurants
+573,EVS - Espaço Vida Saudável,90,,,,,,coffee shops
+573,Pistachio Bakery,77,,,,,,bakeries
+573,Padaria e Restaurante Moça Paulista,43,,,,,,bakeries
+573,Flor do Paraíso,23,,,,,,bakeries
+601,Lanches Bar Novo Paraíso,72,,,,,,restaurants
+601,Panificadora Viana,72,,,,,,restaurants
+601,Akira Sushi Restaurante Ltda ME,100,,,,,,restaurants
+601,Chipper,14,,,,,,restaurants
+601,El Bug Del Milenio,45,,,,,,restaurants
+601,All Fries Burger,45,,,,,,restaurants
+601,Brancao,48,,,,,,restaurants
+601,Mr Cooler,82,,,,,,restaurants
+601,"Reico Pizza, Lanches e Refeições",85,,,,,,restaurants
+601,Bar,92,,,,,,restaurants
+601,Ofner,68,,,,,,coffee shops
+601,Splash Café,81,,,,,,coffee shops
+601,EVS - Espaço Vida Saudável Herbalife,94,,,,,,coffee shops
+601,Panificadora Viana,72,,,,,,bakeries
+601,Panificadora Viana Ltda Epp,56,,,,,,bakeries
+628,Norf,53,,,,,,restaurants
+628,Hickmann Studio,60,,,,,,restaurants
+628,Casa Nostra,63,,,,,,restaurants
+446,Porao da Cerveja,80,,,,,,restaurants
+446,Dja's Grill,13,,,,,,restaurants
+446,Lanchonete Pureza,53,,,,,,restaurants
+446,Pizzaria Philomena,23,,,,,,restaurants
+446,Especialidade da Casa - Churrasco & Choop,33,,,,,,restaurants
+446,Djalma's Club Entertainnent,36,,,,,,restaurants
+446,Solarium - antiRestaurante,56,,,,,,restaurants
+446,"Coelho do Lance lanches, bar e restaurante",70,,,,,,restaurants
+446,Stillus Cafeteria,91,,,,,,coffee shops
+446,Saporearte Bistrô,92,,,,,,coffee shops
+114,Pastis Bistro,42,,,,,,restaurants
+114,New Tranquilo,80,,,,,,restaurants
+114,Empório Lci,89,,,,,,restaurants
+114,Petit Blés d'or,24,,,,,,bakeries
+36,Shigueru,14,,,,,,restaurants
+36,Anusha Chocolates,72,,,,,,restaurants
+36,Grano,64,,,,,,restaurants
+36,Mania de Churrasco Prime Steak House,74,,,,,,restaurants
+36,Les Terrasses,36,,,,,,restaurants
+36,Jeronimo,58,,,,,,restaurants
+36,Laos Asian Bistrô,92,,,,,,restaurants
+36,Pobre Juan,40,,,,,,restaurants
+36,Restaurante Madero Sao Paulo Ltda,71,,,,,,restaurants
+36,Fogão de Minas-Urussui,75,,,,,,restaurants
+36,Padaria da Esquina,54,,,,,,bakeries
+231,Joaquina - Comidinhas e Eventos,66,,,,,,restaurants
+231,Cabruca,58,,,,,,restaurants
+231,Sal Pimenta e Capricho Refeicoes Caseiras,17,,,,,,restaurants
+231,Remo e Romulo,18,,,,,,restaurants
+231,Anluz Eletrometalúrgica Ltda,62,,,,,,restaurants
+231,Nakombi II Bar e Lanches Ltda ME,63,,,,,,restaurants
+231,Restaurante do Instituto,98,,,,,,restaurants
+231,EVS - Espaço Vida Saudável Herbalife,30,,,,,,coffee shops
+525,Contém Café,43,,,,,,restaurants
+525,Jidai Sushi,61,,,,,,restaurants
+525,Restaurante Ker,64,,,,,,restaurants
+525,Recanto Parrilla,70,,,,,,restaurants
+525,Recanto Bar e Lanches,73,,,,,,restaurants
+525,Viveri,85,,,,,,restaurants
+525,Vitrines,97,,,,,,restaurants
+525,Dona Redonda,185,,,,,,restaurants
+525,Contém Café,43,,,,,,coffee shops
+525,Rei do Mate,90,,,,,,coffee shops
+525,Casa do Pão de Queijo,36,,,,,,coffee shops
+525,Recanto Bar e Lanches,73,,,,,,coffee shops
+525,Paris Cafe Expresso,83,,,,,,coffee shops
+102,Quintal Natural,50,,,,,,restaurants
+102,Caffé Bette,76,,,,,,restaurants
+102,Charme do Brooklin,77,,,,,,restaurants
+102,Araúna Bar e Restaurante,91,,,,,,restaurants
+102,Cheiro Verde Grill,24,,,,,,restaurants
+102,Restaurante Panela de Minas,17,,,,,,restaurants
+102,L&M Restaurante,33,,,,,,restaurants
+102,Nova Era Rotissiere,25,,,,,,restaurants
+102,Restaurante Santa Clara,40,,,,,,restaurants
+102,Lanchonete Nova Berrini,84,,,,,,restaurants
+102,Lanchonete Nova Berrini,84,,,,,,coffee shops
+102,"EVS Espaço Vida Saudável Herbalife ""James Joule""",89,,,,,,coffee shops
+102,União Fialense,31,,,,,,bakeries
+102,Lanchonete Nova Berrini,84,,,,,,bakeries
+32,Pleno Sabor Restaurante,39,,,,,,restaurants
+474,Aya Japanese Cuisine,63,,,,,,restaurants
+474,Boteco Capella,25,,,,,,restaurants
+474,Cafofolia,37,,,,,,restaurants
+474,Haori Sushi,57,,,,,,restaurants
+474,Pedroso's Restaurante e Churrascaria,74,,,,,,restaurants
+474,Quatro Irmãos - Restaurante e Pizzaria - Pinheiros,74,,,,,,restaurants
+474,Naturiche Buffet & Catering,80,,,,,,restaurants
+474,AJ M&M Pães e Doces,104,,,,,,bakeries
+87,Méqui 1000,32,,,,,,restaurants
+87,Hakka Sushi,85,,,,,,restaurants
+87,Arabesco,94,,,,,,restaurants
+87,Cantina da Dani,27,,,,,,restaurants
+87,Café d'Itália,61,,,,,,restaurants
+87,Peixe Urbano,72,,,,,,restaurants
+87,Bar do Português,90,,,,,,restaurants
+87,Bob's,82,,,,,,restaurants
+87,Restaurante Frei Paulista Ltda Epp,57,,,,,,restaurants
+87,Méqui 1000,32,,,,,,coffee shops
+87,Casa Bauducco,68,,,,,,coffee shops
+87,Cantina da Dani,27,,,,,,coffee shops
+87,Kopi Luwak,32,,,,,,coffee shops
+87,Asbac,50,,,,,,coffee shops
+87,Bike Cafe Aromeiazero,79,,,,,,coffee shops
+87,Cantina do Pedrão,47,,,,,,bakeries
+248,Academicus Cafe,53,,,,,,restaurants
+59,Artesanal Vecchio Cancian,8,,,,,,restaurants
+59,Quincho Cozinha & Coquetelaria,67,,,,,,restaurants
+59,Chez Mom,67,,,,,,restaurants
+59,Marias e Clarices Beerpizza,80,,,,,,restaurants
+59,Vaca Peixe Burguer Sushi Bar,32,,,,,,restaurants
+59,Paladar da Vila,87,,,,,,restaurants
+59,Umai Sushi,25,,,,,,restaurants
+59,Bar Anhanguera,98,,,,,,restaurants
+59,Trattoria Famiglia Manzoli,23,,,,,,restaurants
+59,Patio SP,95,,,,,,restaurants
+59,Chez Mom,67,,,,,,coffee shops
+59,Coletivo PURA,10,,,,,,coffee shops
+59,Eoka,59,,,,,,coffee shops
+59,Café Moreno,70,,,,,,coffee shops
+59,Iza Padaria Artesanal,84,,,,,,coffee shops
+59,Cremoncello,99,,,,,,coffee shops
+59,Iza Padaria Artesanal,84,,,,,,bakeries
+297,Bawarchi,88,,,,,,restaurants
+297,Dona Tapioca & Cia,91,,,,,,restaurants
+297,Pistache Coml.,78,,,,,,restaurants
+297,Dona Midori,76,,,,,,restaurants
+297,Mani in Pasta,65,,,,,,restaurants
+297,Patrimônio de Minas,38,,,,,,restaurants
+297,Hourenso,44,,,,,,restaurants
+297,Salvattore Sushi Bar,48,,,,,,restaurants
+297,Mistura Gastronomia Peruana,55,,,,,,restaurants
+297,Lanchonete Bom Jesus 5,73,,,,,,restaurants
+297,Pistache Coml.,78,,,,,,coffee shops
+297,"Casa do Urso - Chá, Bolo e Cia",97,,,,,,coffee shops
+297,Café & Cultura,75,,,,,,coffee shops
+297,Casa do Pão de Queijo,68,,,,,,coffee shops
+297,La Greno,41,,,,,,coffee shops
+297,Cafécafé,68,,,,,,coffee shops
+297,Betina Café,82,,,,,,coffee shops
+297,Nutty Bavarian,98,,,,,,coffee shops
+297,Café da Vila,98,,,,,,coffee shops
+297,das Brot - Padaria Alemã,37,,,,,,bakeries
+297,Dorf Haus,25,,,,,,bakeries
+405,Bar Restaurante e Pastelaria Metropolitano Ltda,63,,,,,,restaurants
+405,Restaurante Bom Gosto,77,,,,,,restaurants
+405,Subway,37,,,,,,restaurants
+405,Patron Self Service,87,,,,,,restaurants
+405,Restaurante Aroma e Sabor,66,,,,,,restaurants
+405,Arrozeteria,16,,,,,,restaurants
+405,Pizza Crek,21,,,,,,restaurants
+405,Recanto Comida Caseira,32,,,,,,restaurants
+405,Montana grill,39,,,,,,restaurants
+405,Jin Jin,38,,,,,,restaurants
+405,Rei do Mate,27,,,,,,coffee shops
+405,Meu Cantinho - Cafeteria,10,,,,,,coffee shops
+405,Açaí Sabor Brasileiro,50,,,,,,coffee shops
+405,Cafe Brasil,62,,,,,,coffee shops
+405,Café Estação,66,,,,,,coffee shops
+405,Recanto Chic Lanches Bar Ltda.,75,,,,,,coffee shops
+405,Maquina de Café - 12 andar,83,,,,,,coffee shops
+405,EVS - Espaço Vida Saudável Herbalife,101,,,,,,coffee shops
+405,Guanabara São Bento,95,,,,,,coffee shops
+405,Monge Bar e Lanches,98,,,,,,coffee shops
+405,Padaria do Mosteiro,91,,,,,,bakeries
+405,benjamin a padaria patio São bento,41,,,,,,bakeries
+585,Camarões,60,,,,,,restaurants
+585,Teatro D,51,,,,,,restaurants
+585,Willy & Sérgio Restaurante Ltda,58,,,,,,restaurants
+585,Restaurante Vecchia Roma,85,,,,,,restaurants
+585,Bella Donna-Tabapuã,80,,,,,,restaurants
+585,Vanilla Caffè - Itaim,80,,,,,,restaurants
+585,Laporte's - Itaim Bibi,93,,,,,,restaurants
+585,Madame d'orvilliers,69,,,,,,coffee shops
+585,EVS - Espaço Vida Saudável Herbalife,81,,,,,,coffee shops
+585,Cafeterrie Elegance Ltda ME,93,,,,,,coffee shops
+585,Vanilla Caffè - Itaim,80,,,,,,coffee shops
+585,Panificadora Jessbel,82,,,,,,bakeries
+18,Barraca de Pastel do Luiz,23,,,,,,restaurants
+18,Café Gourmet Santa Monica,74,,,,,,coffee shops
+119,subway Eventos,44,,,,,,restaurants
+119,Jeronimo,88,,,,,,restaurants
+119,Confraria du Carioca,94,,,,,,restaurants
+119,Mercadinho Nova Cidade,107,,,,,,restaurants
+119,99 Bar,94,,,,,,restaurants
+119,Salucci Paulista,23,,,,,,restaurants
+119,Buffet Serra Restaurante,55,,,,,,restaurants
+119,Salucci Paulista,23,,,,,,coffee shops
+119,Acesso e solucoes,37,,,,,,bakeries
+3,Coqueiro's Drinks,78,,,,,,restaurants
+3,Vila São Paulo,21,,,,,,restaurants
+3,Terracinho,85,,,,,,restaurants
+3,Restaurante da Vovo,71,,,,,,restaurants
+3,Coqueiro I,74,,,,,,restaurants
+3,Well's,84,,,,,,restaurants
+3,A Moqueca,110,,,,,,restaurants
+3,Café Varanda,38,,,,,,coffee shops
+3,Café Santo Gusto,80,,,,,,coffee shops
+307,O Batidão,28,,,,,,restaurants
+307,Demorô Restaurante e Bar,75,,,,,,restaurants
+307,Lanchinho,61,,,,,,restaurants
+307,Yakissoba do China,25,,,,,,restaurants
+307,Halabi,28,,,,,,restaurants
+307,Ja-Pa's,80,,,,,,restaurants
+307,Mineiro Lanches,57,,,,,,restaurants
+307,Feira Galinha Viva,62,,,,,,restaurants
+307,Restaurante e Pizzaria Japas,97,,,,,,restaurants
+307,Demoro Self Service,35,,,,,,restaurants
+307,Vila da Pizza Café,59,,,,,,coffee shops
+307,Café da Manhã da Dona Maria,64,,,,,,coffee shops
+307,Casa do Pão de Queijo Express,68,,,,,,coffee shops
+194,Lord Pães e Doces,54,,,,,,restaurants
+194,Pizzaria Bela Vista,59,,,,,,restaurants
+194,A Granja,69,,,,,,restaurants
+194,Nova Barão,75,,,,,,restaurants
+194,Lord Padaria panificadora,70,,,,,,restaurants
+194,Café d'916,76,,,,,,coffee shops
+194,Lord Pães e Doces,54,,,,,,bakeries
+154,Tradição Mineira,75,,,,,,restaurants
+154,Lanchonete Cachorrao,34,,,,,,restaurants
+154,La Park,59,,,,,,restaurants
+154,Central de São Joaquim Panificadora,64,,,,,,restaurants
+154,A Condessa Restaurante,75,,,,,,restaurants
+154,A Batata da Gi,1156,,,,,,restaurants
+154,Adega de Vinhos Irmaos Matias Ltda ME,56,,,,,,restaurants
+154,Padaria Nova Central,64,,,,,,bakeries
+154,Central de São Joaquim Panificadora,64,,,,,,bakeries
+154,Central de São Joaquim,74,,,,,,bakeries
+629,Varandinha,31,,,,,,restaurants
+629,Rango's,43,,,,,,restaurants
+629,Gioconda Heleniká Pizza Grega,86,,,,,,restaurants
+629,Le Pastel,14,,,,,,restaurants
+629,Amelia Restaurante,77,,,,,,restaurants
+629,Angeline - Berrini,54,,,,,,restaurants
+629,Vila Sonetto,68,,,,,,restaurants
+629,Manga Rosa,83,,,,,,restaurants
+629,Suruí,103,,,,,,restaurants
+629,Gio Di Roditis Organização de Eventos e Pizzaria Ltda M E,55,,,,,,restaurants
+629,Starbucks,60,,,,,,coffee shops
+629,Café Itamaracá,93,,,,,,coffee shops
+629,Coffee,93,,,,,,coffee shops
+15,Empório Santa Maria,104,,,,,,restaurants
+15,PAO Padaria Artesanal Organica,41,,,,,,restaurants
+15,Sushi Bar,99,,,,,,restaurants
+15,Nova Pão Kent,83,,,,,,restaurants
+15,Lanchonete Mocidade Europa,53,,,,,,restaurants
+15,Sweet Pimenta,53,,,,,,restaurants
+15,Vinoteca,99,,,,,,restaurants
+15,PAO Padaria Artesanal Organica,41,,,,,,bakeries
+15,Nova Pão Kent,83,,,,,,bakeries
+15,Art Paes,81,,,,,,bakeries
+566,Empório Itaim,85,,,,,,restaurants
+566,Empório Itaim,85,,,,,,bakeries
+566,St. Etienne,91,,,,,,bakeries
+85,Balaio IMS,74,,,,,,restaurants
+85,Riviera Bar,59,,,,,,restaurants
+85,Espaço Vida Saudavel Avenida Pau,41,,,,,,restaurants
+85,Micheluccio,79,,,,,,restaurants
+85,Dona Julia Restaurante & Grill,99,,,,,,restaurants
+85,Oitavus Grill,70,,,,,,restaurants
+85,Altsa Grill,74,,,,,,restaurants
+85,Youburger,62,,,,,,restaurants
+85,Panzani Cafe,81,,,,,,restaurants
+85,Balaio Café,69,,,,,,coffee shops
+85,Lanchonete AJ,10,,,,,,coffee shops
+85,EVS - Espaço Vida Saudável Herbalife,19,,,,,,coffee shops
+85,Café Amélie,49,,,,,,coffee shops
+85,Jaguar Net Ltda,39,,,,,,coffee shops
+85,EVS - Espaço Vida Saudável Herbalife,42,,,,,,coffee shops
+85,Café RBS Digital,42,,,,,,coffee shops
+85,Café DE MOURA,63,,,,,,coffee shops
+85,Orfeu Cafés Especiais,76,,,,,,coffee shops
+85,Coffee Break 9° Andar Rede Energia,76,,,,,,coffee shops
+85,Padaria Belas Artes,65,,,,,,bakeries
+587,Méqui 1000,23,,,,,,restaurants
+587,Hakka Sushi,53,,,,,,restaurants
+587,Arabesco,92,,,,,,restaurants
+587,La Arena Parrilla,80,,,,,,restaurants
+587,A Grife do Filé Mignon,100,,,,,,restaurants
+587,Xodó Paulista,74,,,,,,restaurants
+587,Café d'Itália,32,,,,,,restaurants
+587,Bar do Português,56,,,,,,restaurants
+587,Cantina da Dani,70,,,,,,restaurants
+587,Yakisoba do Su,91,,,,,,restaurants
+587,Méqui 1000,23,,,,,,coffee shops
+587,Casa Bauducco,81,,,,,,coffee shops
+587,Bike Cafe Aromeiazero,66,,,,,,coffee shops
+587,Cantina da Dani,70,,,,,,coffee shops
+587,Kopi Luwak,76,,,,,,coffee shops
+587,Asbac,93,,,,,,coffee shops
+587,Xodó Paulista,74,,,,,,bakeries
+587,A Quinta do Marquês,89,,,,,,bakeries
+587,Cantina do Pedrão,90,,,,,,bakeries
+198,Kasher da Barros,77,,,,,,restaurants
+198,Mega Planet Buffet Infantil,58,,,,,,restaurants
+303,Sacra Rolha,17,,,,,,restaurants
+303,Parrillada Fuego Celeste - Unidade Vila Mariana,64,,,,,,restaurants
+303,Jota 1078,73,,,,,,restaurants
+303,Barxaréu,21,,,,,,restaurants
+303,Genuíno,94,,,,,,restaurants
+303,Padaria Charme,98,,,,,,restaurants
+303,Rango da Vila,38,,,,,,restaurants
+303,Gamela Mineira,21,,,,,,restaurants
+303,Bar do Amadeo,54,,,,,,restaurants
+303,Paróquia,16,,,,,,restaurants
+303,Bar do Amadeo,54,,,,,,coffee shops
+303,Café Donuts Vila Mariana,78,,,,,,coffee shops
+303,Padaria Charme,98,,,,,,bakeries
+100,Comedoria,26,,,,,,restaurants
+100,Café IC,36,,,,,,restaurants
+100,Oriental Garden Restaurante,56,,,,,,restaurants
+100,Villa Paulista - Hospital Santa Catarina,89,,,,,,restaurants
+100,Café Cultural,20,,,,,,restaurants
+100,Restaurante Rotisserie Pracinha,53,,,,,,restaurants
+100,Comedoria,26,,,,,,coffee shops
+100,Café Terraço,31,,,,,,coffee shops
+100,Café IC,36,,,,,,coffee shops
+100,Ofiner,32,,,,,,coffee shops
+100,SM Coffee,60,,,,,,coffee shops
+156,Almanara,65,,,,,,restaurants
+156,Mokaflor - Cafe & Tabacaria,88,,,,,,restaurants
+156,Hello Fast,58,,,,,,restaurants
+156,Guga Restaurante,84,,,,,,restaurants
+156,Sushi Showa,57,,,,,,restaurants
+156,Café do Centro,68,,,,,,restaurants
+156,Scuzzy,77,,,,,,restaurants
+156,Manai Gastronomia,97,,,,,,restaurants
+156,Pé Sujo - Faria Lima,100,,,,,,restaurants
+156,Hortalice Café,105,,,,,,restaurants
+156,Mokaflor - Cafe & Tabacaria,88,,,,,,coffee shops
+156,McCafé,73,,,,,,coffee shops
+156,Café do Ponto,60,,,,,,coffee shops
+156,Café do Centro,68,,,,,,coffee shops
+553,Outback Steakhouse,81,,,,,,restaurants
+553,Casa Bauducco,92,,,,,,restaurants
+553,Empório de Doces e Importados JK,66,,,,,,restaurants
+553,Mawari,103,,,,,,restaurants
+553,Coé Food,65,,,,,,restaurants
+553,Pandaréu,91,,,,,,restaurants
+553,KFC,85,,,,,,restaurants
+553,Indeed Brasil,14,,,,,,restaurants
+553,Tulipas Bistrô,27,,,,,,restaurants
+553,Mania de Churrasco Prime Steakhouse,95,,,,,,restaurants
+553,Casa Bauducco,92,,,,,,coffee shops
+553,Ethos Café,64,,,,,,coffee shops
+553,Casa Bauduco,95,,,,,,coffee shops
+553,Pandaréu,91,,,,,,coffee shops
+553,Jose's,49,,,,,,coffee shops
+553,Café da Teresinha,55,,,,,,coffee shops
+553,Jose's,61,,,,,,coffee shops
+553,Café Local,68,,,,,,coffee shops
+553,Treviolo Café,85,,,,,,coffee shops
+553,Café dos Engenheiros,88,,,,,,coffee shops
+553,Padoca da Vila Olimpia,92,,,,,,bakeries
+91,Bacio di Latte,59,,,,,,restaurants
+91,Casa do Pão de Queijo,24,,,,,,restaurants
+91,Keito,60,,,,,,restaurants
+91,Hirota Food Express,41,,,,,,restaurants
+91,Empório das Delícias,50,,,,,,restaurants
+91,Croasonho,89,,,,,,restaurants
+91,Café Creme,63,,,,,,restaurants
+91,Stilo Paulista SP,102,,,,,,restaurants
+91,KFC,70,,,,,,restaurants
+91,Bovinu's Fast Grill,94,,,,,,restaurants
+91,Baobá Café,50,,,,,,coffee shops
+91,Starbucks,57,,,,,,coffee shops
+91,Casa do Pão de Queijo,24,,,,,,coffee shops
+91,Melitta,36,,,,,,coffee shops
+91,Café do Consta,78,,,,,,coffee shops
+91,Empório das Delícias,50,,,,,,coffee shops
+91,Rei do Mate,98,,,,,,coffee shops
+91,Mr. Cheney Cookies,78,,,,,,coffee shops
+91,Café Creme,63,,,,,,coffee shops
+91,Stilo Paulista SP,102,,,,,,coffee shops
+357,Lanchonete da Produção - EPUSP,73,,,,,,coffee shops
+216,Raiz Bar,24,,,,,,restaurants
+216,Beaujoais Nouveau,40,,,,,,restaurants
+216,Espaço Gourmet Editora Aleph,57,,,,,,restaurants
+216,Churrasqueira,62,,,,,,restaurants
+216,Materello,72,,,,,,restaurants
+216,Café Pão de Açúcar,84,,,,,,coffee shops
+216,BooKafé,79,,,,,,coffee shops
+222,Di Fondi Pizza,21,,,,,,restaurants
+222,Dedo de La Chica,86,,,,,,restaurants
+222,Taioba Nativa Gastronomia Orgânica,19,,,,,,restaurants
+222,PostoBurger,41,,,,,,restaurants
+222,Conexion Caribe,39,,,,,,restaurants
+222,Food Truck,69,,,,,,restaurants
+222,Teste FT,95,,,,,,restaurants
+222,Gringo Gastronomia Viajante,100,,,,,,restaurants
+35,Boloccino,57,,,,,,restaurants
+35,Subway,92,,,,,,restaurants
+35,China In Box,81,,,,,,restaurants
+35,EVS - Espaço Vida Saudável Herbalife,84,,,,,,restaurants
+35,Beltrano Salad Bar,87,,,,,,restaurants
+35,Braca Bar,88,,,,,,restaurants
+35,Pizzaria Macedo,100,,,,,,restaurants
+35,Marcia Faccio,23,,,,,,restaurants
+35,Regina Harumi Shinohara Me,51,,,,,,restaurants
+35,Hangar Jk,66,,,,,,restaurants
+35,Boloccino,57,,,,,,coffee shops
+35,Pingado Café,37,,,,,,coffee shops
+35,The Coffee,69,,,,,,coffee shops
+35,Boloccino,57,,,,,,bakeries
+181,Tabuleiro do Acarajé,64,,,,,,restaurants
+181,Bagaceira,53,,,,,,restaurants
+181,Panela da Cecília,53,,,,,,restaurants
+181,Lanchonete Mais Sabor,72,,,,,,restaurants
+181,Restaurante do Meio Limitado,28,,,,,,restaurants
+181,Lanchonete Terenos Ltda ME,44,,,,,,restaurants
+181,Reis Pastel,54,,,,,,restaurants
+181,Futebol Pizza Bar,30,,,,,,restaurants
+181,Cantinho da Cecília,23,,,,,,restaurants
+181,Bar da Praca,36,,,,,,restaurants
+181,Macabéa Café,55,,,,,,coffee shops
+181,Lanchonete Terenos Ltda ME,44,,,,,,coffee shops
+181,Padaria Terenas,36,,,,,,bakeries
+28,Anusha Chocolates,36,,,,,,restaurants
+28,Eurobike Café,33,,,,,,restaurants
+28,Pobre Juan,58,,,,,,restaurants
+28,Isabela Akkari,49,,,,,,restaurants
+28,Beyti Restaurante,39,,,,,,restaurants
+28,Maracujá,19,,,,,,restaurants
+28,Maracuja bistro,8,,,,,,restaurants
+28,Darin Omeletes,22,,,,,,restaurants
+28,Beyti,37,,,,,,restaurants
+28,Portos Bar e Restaurante,38,,,,,,restaurants
+28,Anusha Chocolates,36,,,,,,coffee shops
+28,Eurobike Café,33,,,,,,coffee shops
+28,Ponto do Cafe 2,72,,,,,,coffee shops
+189,Seu Vito,87,,,,,,restaurants
+189,Café Brasilis,22,,,,,,restaurants
+189,Avilas,37,,,,,,restaurants
+189,Sabor Pastel,40,,,,,,restaurants
+189,Lanchonete Center,50,,,,,,restaurants
+189,Tiozinho's Gourmet,88,,,,,,restaurants
+189,Uno & Due,84,,,,,,restaurants
+189,Espaco Gastronomico,121,,,,,,restaurants
+189,Olfato e Paladar,97,,,,,,restaurants
+189,EVS Aprenda Viver Mais - Herbalife - Faria Lima X Rebouças,83,,,,,,coffee shops
+189,Sterna Café,95,,,,,,coffee shops
+189,Uno & Due,84,,,,,,coffee shops
+189,Uno & Due,84,,,,,,bakeries
+599,Sorveteria do Centro,91,,,,,,restaurants
+599,Hot Pork,88,,,,,,restaurants
+599,Bia Hoi SP,77,,,,,,restaurants
+599,Carlino Restaurante,83,,,,,,restaurants
+599,Pizzaria Copan,90,,,,,,restaurants
+599,Restaurante Lolita,31,,,,,,restaurants
+599,Espetinho do Biro,110,,,,,,restaurants
+599,Pizzaria e Restaurante Rossana,10,,,,,,restaurants
+599,James Cafeteria,67,,,,,,restaurants
+599,Restaurante Primus,100,,,,,,restaurants
+599,World Cafe Bar,91,,,,,,coffee shops
+599,James Cafeteria,67,,,,,,coffee shops
+599,Noninha Café,46,,,,,,coffee shops
+599,Marin,73,,,,,,coffee shops
+599,Inverno d'Italia,77,,,,,,coffee shops
+599,Café Ofício,87,,,,,,coffee shops
+309,Pão de Festa,51,,,,,,restaurants
+309,Labamba Lanche,57,,,,,,restaurants
+309,Móbile - Cantina Brasil,58,,,,,,restaurants
+309,Ciriguela,70,,,,,,restaurants
+309,A Delicia da Bahia,79,,,,,,restaurants
+309,Kofu Sushi,79,,,,,,restaurants
+309,Lig Lig,83,,,,,,restaurants
+309,U. D. California Utilidades Domesticas,66,,,,,,restaurants
+309,Spqr - Pizzaria Delivery,96,,,,,,restaurants
+309,Praça Café,42,,,,,,coffee shops
+126,Dídio Pizza - Campo Belo,63,,,,,,restaurants
+126,Pastel de Feira - Sexta-feira,102,,,,,,restaurants
+126,bar Original,112,,,,,,restaurants
+475,Lins Sushi,4,,,,,,restaurants
+475,Central Caos,98,,,,,,restaurants
+475,Iracema Pães e Doces,59,,,,,,restaurants
+475,BGV Bar e Restaurante,65,,,,,,restaurants
+475,Restaurantes Dois Irmãos,77,,,,,,restaurants
+475,Estação Angélica,83,,,,,,restaurants
+475,Casa de Carnes Boi Legal,105,,,,,,restaurants
+475,Confeitaria e Rotisseria Iracema,61,,,,,,restaurants
+475,Fahir Doces,89,,,,,,restaurants
+475,Yerba + Por uns Dólares a Mais,52,,,,,,coffee shops
+475,Iracema Pães e Doces,59,,,,,,bakeries
+475,Confeitaria e Rotisseria Iracema,61,,,,,,bakeries
+590,La Trattoria,65,,,,,,restaurants
+590,Tantin Bar & Cozinha,4,,,,,,restaurants
+590,Caviar Bar,81,,,,,,restaurants
+590,Guedes Bar,27,,,,,,restaurants
+590,Feira Livre - A. Bicudo,37,,,,,,restaurants
+590,Doçaria União,38,,,,,,restaurants
+590,Restaurante Eulalia,40,,,,,,restaurants
+590,Consulado Mineiro Pinheiros,46,,,,,,restaurants
+590,Smashies,54,,,,,,restaurants
+590,Alskekh,69,,,,,,restaurants
+590,Coffee Corner,7,,,,,,coffee shops
+590,Doçaria União,38,,,,,,coffee shops
+590,Ninos Oficina de Gastronomia e Arte,58,,,,,,coffee shops
+590,BellaMari Bistro,82,,,,,,coffee shops
+590,Solo Qui,80,,,,,,coffee shops
+590,Novo Caviar,95,,,,,,coffee shops
+590,Mister C,93,,,,,,coffee shops
+590,Ponto Quente,85,,,,,,bakeries
+467,The Barley House,49,,,,,,restaurants
+467,Fresh & Co,77,,,,,,restaurants
+467,Hygge Bistrô,68,,,,,,restaurants
+467,Bar do Arnesto,67,,,,,,restaurants
+467,Kiichi,92,,,,,,restaurants
+467,Bistrô Faria Lima,92,,,,,,restaurants
+467,Fabbrica Illegale,45,,,,,,restaurants
+467,Cin5que Bar e Restaurante,40,,,,,,restaurants
+467,Porto Luna,66,,,,,,restaurants
+467,Hygge Bar e Restaurante,64,,,,,,restaurants
+467,EVS - Espaço Vida Saudável Herbalife,115,,,,,,coffee shops
+467,Lori Café,52,,,,,,coffee shops
+467,Café Bistrô,73,,,,,,coffee shops
+467,Ça-Va Café Erick Jacquin,94,,,,,,coffee shops
+467,Padoca Dela Morte,86,,,,,,bakeries
+319,Sapporo,70,,,,,,restaurants
+319,Donna Sushi (Donna Culinária Japonesa),90,,,,,,restaurants
+319,Flavi Bistrô,22,,,,,,restaurants
+319,Restaurante Fama,25,,,,,,restaurants
+319,Acarajé da Baiana,51,,,,,,restaurants
+319,Melim Restaurante,76,,,,,,restaurants
+319,Tudo Moema,78,,,,,,restaurants
+319,Al Kaseem Cozinha Árabe,83,,,,,,restaurants
+319,Space Time Grill,83,,,,,,restaurants
+319,Restaurante Iraeace,86,,,,,,restaurants
+319,Bam! Café,33,,,,,,coffee shops
+319,Maná Gastronomia e Café,36,,,,,,coffee shops
+319,Varanda Café,92,,,,,,coffee shops
+73,Loja de Conveniêcia Auto Posto Ipiranga,55,,,,,,restaurants
+73,Especialista Chopp Brahma,61,,,,,,restaurants
+73,LC Restaurante GPA,72,,,,,,restaurants
+143,Joy Juice,63,,,,,,restaurants
+143,Bloody Hell Burger,28,,,,,,restaurants
+143,Koskina,74,,,,,,restaurants
+143,Restaurante Kitchin Itaim,71,,,,,,restaurants
+143,Piccolo,28,,,,,,restaurants
+143,Ville du Vin Itaim Bibi,87,,,,,,restaurants
+143,Let's Poke,79,,,,,,restaurants
+143,Hollyfood,31,,,,,,restaurants
+143,Kappa & Kanashiro,95,,,,,,restaurants
+143,Lemony,36,,,,,,restaurants
+143,Bloody Hell Burger,28,,,,,,coffee shops
+143,Lemony,36,,,,,,coffee shops
+143,Fabriquinha de Salgado,114,,,,,,coffee shops
+143,Iaiá Café,22,,,,,,coffee shops
+143,Tundum,17,,,,,,coffee shops
+143,Santo Almoço Self Service,31,,,,,,coffee shops
+143,Café do Centro,34,,,,,,coffee shops
+143,Mesa Cafe,49,,,,,,coffee shops
+143,Doceria Yara,49,,,,,,coffee shops
+143,Grao Espresso Cafeteria,89,,,,,,coffee shops
+143,Benjamin A Padaria,64,,,,,,bakeries
+143,Fabrica de Salgados Delano,96,,,,,,bakeries
+5,Primos,74,,,,,,restaurants
+124,Cristal Encantado Buffet Infantil,85,,,,,,restaurants
+124,Bomburger/mercearia pracinha,90,,,,,,restaurants
+162,Outback Steakhouse,38,,,,,,restaurants
+162,Empório Frei Caneca,48,,,,,,restaurants
+162,Lahmajun - Delícias Turcas,67,,,,,,restaurants
+162,Check-in,95,,,,,,restaurants
+162,Latife,87,,,,,,restaurants
+162,Temakeria e Cia,56,,,,,,restaurants
+162,Sushi Tomy,58,,,,,,restaurants
+162,Crazy Meat,118,,,,,,restaurants
+162,Pizzaria Umburanas,28,,,,,,restaurants
+162,Primo Cozinha Divina,89,,,,,,restaurants
+162,Latife,87,,,,,,coffee shops
+162,Havanna Café,52,,,,,,coffee shops
+162,Lanchonete Sorriso Maroto,62,,,,,,coffee shops
+162,Bubblekill,75,,,,,,coffee shops
+178,Terraço Itália,41,,,,,,restaurants
+178,Cantina Famíla Giovanni,65,,,,,,restaurants
+178,Almanara,75,,,,,,restaurants
+178,Orfeu,94,,,,,,restaurants
+178,Circolo Italiano,71,,,,,,restaurants
+178,República Mineira,92,,,,,,restaurants
+178,Restaurante Alcazar,79,,,,,,restaurants
+178,Bistrô Boizão,56,,,,,,restaurants
+178,Bocattinobox,15,,,,,,restaurants
+178,Tempero Mágico,17,,,,,,restaurants
+178,Café Arte e Cia,55,,,,,,coffee shops
+178,Abboccato,61,,,,,,coffee shops
+178,EVS - Espaço Vida Saudável Herbalife,70,,,,,,coffee shops
+178,Na Moranga Café,98,,,,,,coffee shops
+178,Emporio Casa Doce,33,,,,,,bakeries
+178,Ingrid Paes e Doces Ltda,88,,,,,,bakeries
+178,Saúde Ok Planos Médicos,53,,,,,,bakeries
+296,Sorveteria e Lanchonete Ypê,22,,,,,,restaurants
+296,Jazz Resto & Burgueria,7,,,,,,restaurants
+296,Bar do Marcão,89,,,,,,restaurants
+296,Café do Tó,75,,,,,,restaurants
+296,Ypê Restaurante,36,,,,,,restaurants
+296,Great Taste Eat Fresh,47,,,,,,restaurants
+296,Estrela da Ana Rosa,77,,,,,,restaurants
+296,Giraffas - Largo Dona Ana Rosa,79,,,,,,restaurants
+296,Chinês Sujo,22,,,,,,restaurants
+296,Wok N Roll Asian Food Chef Suzuki,25,,,,,,restaurants
+296,Açai com Mate,56,,,,,,coffee shops
+296,Café do Tó,75,,,,,,coffee shops
+296,Giraffas - Largo Dona Ana Rosa,79,,,,,,coffee shops
+296,Espaço Café,68,,,,,,coffee shops
+296,Joia da Vergueiro,43,,,,,,bakeries
+243,Urban Eats Sp,98,,,,,,restaurants
+125,Primeiro andar,89,,,,,,restaurants
+125,Le Caipirinha Restaurante,61,,,,,,restaurants
+125,Grand Le Pain - Pâtisserie et Boulangerie,65,,,,,,bakeries
+304,de Lucca Lanches,116,,,,,,restaurants
+304,Restaurante CP,118,,,,,,restaurants
+304,Spazios Café,99,,,,,,coffee shops
+411,Tatenu Lanches,18,,,,,,restaurants
+411,Chili Pilli,54,,,,,,restaurants
+411,Friends,27,,,,,,restaurants
+411,Rock & Ribs - Shopping Eldorado,82,,,,,,restaurants
+411,Ropag Alimentos,83,,,,,,restaurants
+411,Casa Bauducco,49,,,,,,coffee shops
+411,Noponto By Sodexo,95,,,,,,coffee shops
+140,Dengo,67,,,,,,restaurants
+140,Le Pain Quotidien,70,,,,,,restaurants
+140,Forneria San Paolo,79,,,,,,restaurants
+140,2º Subsolo,58,,,,,,restaurants
+140,Spoleto,67,,,,,,restaurants
+140,Restaurante Viana,67,,,,,,restaurants
+140,Fornatore,94,,,,,,restaurants
+140,Restaurante La Dolce Vita,71,,,,,,restaurants
+140,Deli Fresh,60,,,,,,coffee shops
+140,Rei do Mate Hebraica,64,,,,,,coffee shops
+140,Coffee Tree,68,,,,,,coffee shops
+140,Idoce Cafe Restaurant,89,,,,,,coffee shops
+140,Le Pain Quotidien,70,,,,,,bakeries
+522,Banzeiro,88,,,,,,restaurants
+522,TATÁ Sushi,55,,,,,,restaurants
+522,Locale Trattoria,93,,,,,,restaurants
+522,Bodega La Barra,63,,,,,,restaurants
+522,Between Buns,74,,,,,,restaurants
+522,Sushi Kaminari,86,,,,,,restaurants
+522,Rosima,49,,,,,,restaurants
+522,Bar do Seu Zé - Itaim Bibi,90,,,,,,restaurants
+522,Cachoeira Natural,85,,,,,,restaurants
+522,Viela Bar,88,,,,,,restaurants
+522,Locale Caffe,90,,,,,,coffee shops
+522,Samantha Café,68,,,,,,coffee shops
+522,La Ranja Cafe,77,,,,,,coffee shops
+522,Lanterna Rouge Cafe,84,,,,,,coffee shops
+522,Two Sizes,103,,,,,,coffee shops
+522,Amnz's,30,,,,,,coffee shops
+117,Abbraccio Cucina Italiana - Vila Olímpia,101,,,,,,restaurants
+117,Pizza Hut,90,,,,,,restaurants
+117,Amoaras Restaurante,76,,,,,,restaurants
+117,Alimentação jas Lancho,12,,,,,,restaurants
+117,Good Eat,63,,,,,,restaurants
+117,Subway,91,,,,,,restaurants
+117,Pousada Vila do Outeiro Empreendimentos Ltda Matriz 1,39,,,,,,restaurants
+117,Amoaras Comércio de Alimentos Ltda,47,,,,,,restaurants
+117,Kopenhagen - Shopping Vila Olímpia,89,,,,,,restaurants
+117,Brigadeiro Bistrô - Shopping Vila Olímpia,89,,,,,,restaurants
+117,Sofá Café,43,,,,,,coffee shops
+117,Mikaela Café,33,,,,,,coffee shops
+117,IL Vero Café,39,,,,,,coffee shops
+117,Blenz,58,,,,,,coffee shops
+117,Refeitório BRQ,83,,,,,,coffee shops
+117,Café Bistrot Vila Olimpia,85,,,,,,coffee shops
+117,Kopenhagen - Shopping Vila Olímpia,89,,,,,,coffee shops
+117,Nutty Bavarian - Shopping Vila Olímpia,98,,,,,,coffee shops
+117,Viva Saladas e Sucos - Shopping Vila Olímpia,99,,,,,,coffee shops
+26,Armazem Nacional,101,,,,,,restaurants
+26,Excelentíssimo Botequim,65,,,,,,restaurants
+26,Fran's Café,48,,,,,,restaurants
+26,Busger,86,,,,,,restaurants
+26,Acarajé da Anne,96,,,,,,restaurants
+26,Restaurante da Tia,42,,,,,,restaurants
+26,Tempero da Villa,77,,,,,,restaurants
+26,Café Quintal,54,,,,,,restaurants
+26,Gringo's Dog,65,,,,,,restaurants
+26,Dog da Sandrinha,67,,,,,,restaurants
+26,Fran's Café,48,,,,,,coffee shops
+26,Café Quintal,54,,,,,,coffee shops
+26,Franscafe - Vila Olimpia,77,,,,,,coffee shops
+26,Rituais Três Corações,85,,,,,,coffee shops
+26,Tasty Coffee,90,,,,,,coffee shops
+26,Grão Espresso,77,,,,,,coffee shops
+207,Ravin - Vinho e Pasta - cozinha Pasquale,41,,,,,,restaurants
+207,Chez Oscar,23,,,,,,restaurants
+207,Vinil Burger,5,,,,,,restaurants
+207,Pati Piva - Oscar Freire,52,,,,,,restaurants
+207,Duplex,6,,,,,,restaurants
+207,London,26,,,,,,restaurants
+207,Rainha da Picanha Jordanesia,29,,,,,,restaurants
+207,Jeronimo,47,,,,,,restaurants
+207,"Amsterdam Café, Bar e Gastronomia",51,,,,,,restaurants
+207,Kisu,58,,,,,,restaurants
+207,Chez Astro,33,,,,,,coffee shops
+207,Café Cherie,12,,,,,,coffee shops
+207,Betc Havas Café,36,,,,,,coffee shops
+207,Chez D’or,41,,,,,,coffee shops
+207,Allez-Y,46,,,,,,coffee shops
+207,The Coffee.,50,,,,,,coffee shops
+207,Catarina Coffee and Love,62,,,,,,coffee shops
+207,Benjamin A Padaria,106,,,,,,bakeries
+563,La Ventana Parrilla,61,,,,,,restaurants
+563,America,97,,,,,,restaurants
+563,Srs Parrilla Argentina,88,,,,,,restaurants
+563,Buffet Tutti Frutti S/C,73,,,,,,restaurants
+563,Arosa Massas Folhadas,95,,,,,,bakeries
+190,Zena Caffé,17,,,,,,restaurants
+190,Bacio di Latte,43,,,,,,restaurants
+190,Restaurante Tanit,33,,,,,,restaurants
+190,Tartuferia San Paolo,29,,,,,,restaurants
+190,Z Deli Sandwiches,35,,,,,,restaurants
+190,Frutaria Sao Paulo,34,,,,,,restaurants
+190,NIT Bar de Tapas,25,,,,,,restaurants
+190,Myk,97,,,,,,restaurants
+190,Butoh,68,,,,,,restaurants
+190,Fame Osteria,58,,,,,,restaurants
+190,Zena Caffé,17,,,,,,coffee shops
+332,Restaurante Rustico,17,,,,,,restaurants
+332,Rustico,28,,,,,,restaurants
+332,Dairin Sushi Bar,45,,,,,,restaurants
+332,Restaurante Sabor do Brooklin,20,,,,,,restaurants
+332,Caruru do Jonas,27,,,,,,restaurants
+332,Doce Vida,33,,,,,,restaurants
+332,Churras da Babita,53,,,,,,restaurants
+332,Operetta Pizza,63,,,,,,restaurants
+332,Darin Bar e Lanches Ltda,29,,,,,,restaurants
+92,Halabi,13,,,,,,restaurants
+92,Cafe Impresso,20,,,,,,restaurants
+92,Sushi Guen (Sushi Guen | 寿司源),86,,,,,,restaurants
+92,Mestiço Café,25,,,,,,restaurants
+92,Caffè Latte,54,,,,,,restaurants
+92,Kan,99,,,,,,restaurants
+92,Yakitori Mizusaka,79,,,,,,restaurants
+92,Burger King,63,,,,,,restaurants
+92,Washoi,76,,,,,,restaurants
+92,Veneza Grill,113,,,,,,restaurants
+92,Starbucks,41,,,,,,coffee shops
+92,Martins Fontes Café,35,,,,,,coffee shops
+92,Cafe Impresso,20,,,,,,coffee shops
+92,Mestiço Café,25,,,,,,coffee shops
+92,Caffè Latte,54,,,,,,coffee shops
+92,Espaço Vida Saudável Herbalife Paulista Brigadeiro,58,,,,,,coffee shops
+92,Rockafé,25,,,,,,coffee shops
+92,Cyber Café,51,,,,,,coffee shops
+92,Expresso Brigadeiro Café e Conveniência,59,,,,,,coffee shops
+92,Companhia Mineira - Pão de Queijo,88,,,,,,coffee shops
+92,Family Padaria Ltda,25,,,,,,bakeries
+92,Companhia Mineira - Pão de Queijo,88,,,,,,bakeries
+187,Giallo Restaurante,107,,,,,,restaurants
+615,Pastel de Feira Hélio Pellegrini,56,,,,,,restaurants
+615,Okplace,60,,,,,,restaurants
+615,Le Sandwich,89,,,,,,restaurants
+169,Pizzaria Bella Napoli,61,,,,,,restaurants
+169,Deveza,87,,,,,,restaurants
+169,Deveza,87,,,,,,coffee shops
+169,Sweet Point,60,,,,,,bakeries
+47,Dalmo Bárbaro,101,,,,,,restaurants
+47,Mignon Charika,51,,,,,,restaurants
+47,Café da Mata,93,,,,,,restaurants
+47,Castelo Restaurante e Lanchonete,23,,,,,,restaurants
+47,Gaby Paes e Doces Ltda Epp,46,,,,,,restaurants
+47,Bar e Lanches JD Paulista,54,,,,,,restaurants
+47,São Gabriel X Itacema,54,,,,,,restaurants
+47,Dona Carlota,63,,,,,,restaurants
+47,Empório São Gabriel,38,,,,,,restaurants
+47,011 Hamburgueria,79,,,,,,restaurants
+47,Café da Mata,93,,,,,,coffee shops
+47,EVS - Espaço Vida Saudável Herbalife,49,,,,,,coffee shops
+47,Gira Sol,83,,,,,,coffee shops
+47,Gaby Paes e Doces Ltda Epp,46,,,,,,bakeries
+47,Benjamin Padaria,59,,,,,,bakeries
+47,Empório São Gabriel,38,,,,,,bakeries
+136,Bella Paulista,30,,,,,,restaurants
+136,Soul Café,90,,,,,,restaurants
+136,Sí Señor!,26,,,,,,restaurants
+136,Vegetariano,37,,,,,,restaurants
+136,Grill Haddock Churrascaria,102,,,,,,restaurants
+136,Aziz,80,,,,,,restaurants
+136,Bella Haddock,33,,,,,,restaurants
+136,Tollocos,82,,,,,,restaurants
+136,Dona Nuvem,78,,,,,,restaurants
+136,Praça Paulista Restaurante,22,,,,,,restaurants
+136,Soul Café,90,,,,,,coffee shops
+136,Cafeteria,62,,,,,,coffee shops
+136,Oggi Caffe,104,,,,,,coffee shops
+136,Espaço Kids,67,,,,,,coffee shops
+136,Cafe Fruitts,74,,,,,,coffee shops
+136,R2Z Café,78,,,,,,coffee shops
+136,Café Floresta,84,,,,,,coffee shops
+136,Cafe Floresta Luiz e Ivonete,89,,,,,,coffee shops
+136,Monarca Bar & Café,100,,,,,,coffee shops
+136,Vanila Café,103,,,,,,coffee shops
+136,Bella Paulista,30,,,,,,bakeries
+127,Museo Veronica,23,,,,,,restaurants
+127,Hitô,97,,,,,,restaurants
+127,Tsuya Izakaya,32,,,,,,restaurants
+127,Quintal de Moema,38,,,,,,restaurants
+127,Casa do Pão de Queijo,25,,,,,,restaurants
+127,Calhandra,74,,,,,,restaurants
+127,Carambola Crepe e Salada,94,,,,,,restaurants
+127,"Carambolla - Crepes, Saladas e Etc",81,,,,,,restaurants
+127,Pizzaria Famiglia Andreatta,98,,,,,,restaurants
+127,Casa do Pão de Queijo,25,,,,,,coffee shops
+593,Garam Massala,41,,,,,,restaurants
+593,Cinque Sensi,40,,,,,,restaurants
+593,Alpendre Burger & Beer,4,,,,,,restaurants
+593,Trilha do Trigo,22,,,,,,restaurants
+593,Rock Fella Burgers & Beers,94,,,,,,restaurants
+593,Parrilla São José,83,,,,,,restaurants
+593,La Borratxeria,82,,,,,,restaurants
+593,Meet & Eat,87,,,,,,restaurants
+593,Seva Cozinha,79,,,,,,restaurants
+593,Allegrini Restaurante,99,,,,,,restaurants
+593,EVS - Espaço Vida Saudável Herbalife,90,,,,,,coffee shops
+593,Duckbill,85,,,,,,coffee shops
+593,Terezinha Special Coffee,88,,,,,,coffee shops
+593,Café dos Engenheiros,89,,,,,,coffee shops
+593,Vanilla Caffè,93,,,,,,coffee shops
+593,EVS - Espaço Vida Saudável Herbalife,94,,,,,,coffee shops
+593,EVS - Espaço Vida Saudável Herbalife,96,,,,,,coffee shops
+593,Grão Espresso,91,,,,,,coffee shops
+196,Lanchonete Cantinho da Fama,94,,,,,,restaurants
+196,Via Babush,71,,,,,,restaurants
+196,Denise o Prata,26,,,,,,restaurants
+196,Hamburguinho,36,,,,,,restaurants
+196,Espaço Smart Higienópolis,41,,,,,,restaurants
+196,Moinho da Pizza,56,,,,,,restaurants
+196,Buneko S Bar e Lanchonete Ltda ME,59,,,,,,restaurants
+196,Buffet Esplêndido,70,,,,,,restaurants
+196,Recanto Mineiro,74,,,,,,restaurants
+196,King Cabral Bar e Lanchonete,88,,,,,,restaurants
+196,A Cafeteira,37,,,,,,coffee shops
+196,Padaria Angélica - Santa Cecília,74,,,,,,bakeries
+16,Princesa da Funchal,30,,,,,,restaurants
+16,ECP - Lanchonete do Boliche,101,,,,,,restaurants
+16,Pomodoro,54,,,,,,restaurants
+16,Jap's Corner Hungria,60,,,,,,restaurants
+16,Pedreiros's Bar.,90,,,,,,restaurants
+16,Lm,91,,,,,,coffee shops
+414,Remelexo Brasil,73,,,,,,restaurants
+414,Copas Terraço Bar,45,,,,,,restaurants
+414,Mano do Céu,43,,,,,,restaurants
+414,Remelexinho,89,,,,,,restaurants
+414,Biomas Restaurante - da cozinha brasileira,6,,,,,,restaurants
+414,Dona Flor,62,,,,,,restaurants
+414,Grão Expresso,67,,,,,,restaurants
+414,Poteko's Bar,69,,,,,,restaurants
+414,Daju Cozinha e Bistro,69,,,,,,restaurants
+414,Lanchonete Sant Anna,71,,,,,,restaurants
+414,EVS - Espaço Vida Saudável Herbalife,18,,,,,,coffee shops
+414,Casa Pura Caffeina,24,,,,,,coffee shops
+414,Mister cafe,80,,,,,,coffee shops
+414,Café,99,,,,,,coffee shops
+176,Espeto São Paulo,6,,,,,,restaurants
+176,Big Mate,75,,,,,,restaurants
+176,Café no Vidro,105,,,,,,restaurants
+176,Churrascaria Fronteira Gaúcha Ii,16,,,,,,restaurants
+176,Terraço Xavier,28,,,,,,restaurants
+176,Padaria Beatriz,46,,,,,,restaurants
+176,Via Prado Café,13,,,,,,restaurants
+176,Ponto Nobre,29,,,,,,restaurants
+176,Estao 24horas,16,,,,,,restaurants
+176,Veggielife,21,,,,,,restaurants
+176,Big Mate,75,,,,,,coffee shops
+176,EVS - Espaço Vida Saudável Herbalife,74,,,,,,coffee shops
+176,Café no Vidro,105,,,,,,coffee shops
+176,Via Prado Café,13,,,,,,coffee shops
+176,EVS - Espaço Vida Saudável Herbalife,84,,,,,,coffee shops
+176,Padaria Beatriz,46,,,,,,bakeries
+176,Cantinho Doce,22,,,,,,bakeries
+176,Derlania Silva de Almeida & Cia. Ltda. - Me,68,,,,,,bakeries
+469,Verdurinha,88,,,,,,restaurants
+469,Joe Burger,26,,,,,,restaurants
+469,A Lajota,45,,,,,,restaurants
+469,Pastel e Amor,23,,,,,,restaurants
+469,Friolanches,44,,,,,,restaurants
+469,Mário,69,,,,,,restaurants
+469,Big Parada Lanchonete,70,,,,,,restaurants
+469,The Original Cake,70,,,,,,restaurants
+469,Restaurante Westfalen,71,,,,,,restaurants
+469,Buona Self Service,77,,,,,,restaurants
+469,Pet Life Campo Belo Serviços Veterinarios Ltda,95,,,,,,coffee shops
+469,EVS - Espaço Vida Saudável Herbalife,28,,,,,,coffee shops
+469,Pé de Minas,65,,,,,,coffee shops
+469,café Tinder,63,,,,,,coffee shops
+244,Pizzaria Trivial,90,,,,,,restaurants
+244,Churrascaria e Pizzaria Savana,71,,,,,,restaurants
+244,A Casa Azul Bistro,86,,,,,,restaurants
+244,Savana,39,,,,,,restaurants
+605,Kosushi,9,,,,,,restaurants
+605,Manifesto Bar,34,,,,,,restaurants
+605,Gero Panini,65,,,,,,restaurants
+605,Garcia's Bar e Restaurante,75,,,,,,restaurants
+605,Viradouro Café,44,,,,,,restaurants
+605,Millesapori,50,,,,,,restaurants
+605,Dona Deôla - Itaim Bibi,79,,,,,,restaurants
+605,Milló,80,,,,,,restaurants
+605,Recanto Mineiro Restaurante,78,,,,,,restaurants
+605,Acaí Bowls,47,,,,,,restaurants
+605,Café Ruggero,92,,,,,,coffee shops
+605,Giro Café,64,,,,,,coffee shops
+605,Mantí Café,65,,,,,,coffee shops
+605,Viaduto do Chá @ Google,87,,,,,,coffee shops
+605,Tryp Cafe da Manha,96,,,,,,coffee shops
+605,Biocafeteria,96,,,,,,coffee shops
+605,Dona Deôla - Itaim Bibi,79,,,,,,bakeries
+9,Mokaflor - Cafe & Tabacaria,67,,,,,,restaurants
+9,Guga Restaurante,71,,,,,,restaurants
+9,Pé Sujo - Faria Lima,56,,,,,,restaurants
+9,Ponto Perdigão | Jantar Oriental,66,,,,,,restaurants
+9,Nof,86,,,,,,restaurants
+9,Skuzzi,91,,,,,,restaurants
+9,Café do Centro,92,,,,,,restaurants
+9,Oasis,94,,,,,,restaurants
+9,Rei do Doce,96,,,,,,restaurants
+9,Bosque do Morumbi,29,,,,,,restaurants
+9,Mokaflor - Cafe & Tabacaria,67,,,,,,coffee shops
+9,EVS - Espaço Vida Saudável Herbalife,22,,,,,,coffee shops
+9,Café Fumo e Cia,53,,,,,,coffee shops
+9,Cofee Shop,62,,,,,,coffee shops
+9,Café do Centro,92,,,,,,coffee shops
+9,Coffee time,94,,,,,,coffee shops
+9,Divina Café,97,,,,,,coffee shops
+9,Andress café,99,,,,,,coffee shops
+103,Barakah Cozinha Arabe,70,,,,,,restaurants
+103,Gourmet & Juice,50,,,,,,restaurants
+103,Papito Restaurante & Happy Hour,18,,,,,,restaurants
+103,Maria Berrini,25,,,,,,restaurants
+103,Restaurante Hot,10,,,,,,restaurants
+103,Resedá Restaurante,15,,,,,,restaurants
+103,Grafus,17,,,,,,restaurants
+103,Donna K,25,,,,,,restaurants
+103,Bar Edileuza,25,,,,,,restaurants
+103,Caires,47,,,,,,restaurants
+103,Starbucks,26,,,,,,coffee shops
+103,The Coffee,21,,,,,,coffee shops
+103,Paneria,39,,,,,,coffee shops
+103,Terraço,44,,,,,,coffee shops
+103,Conveniência Valverde,46,,,,,,coffee shops
+103,"Espaço Vida Saudável Alexander Bell 135 Sobreloja ""Berrini""",73,,,,,,coffee shops
+103,Café Paulista,85,,,,,,coffee shops
+103,Baker Tilly Brasil,55,,,,,,bakeries
+101,Manai Gastronomia,43,,,,,,restaurants
+101,Farrapos Restaurantes e Churrascaria,19,,,,,,restaurants
+101,Dude's,78,,,,,,restaurants
+101,Villa Felice,77,,,,,,restaurants
+101,Rosa Gourmet Restaurante,44,,,,,,restaurants
+101,Odon,30,,,,,,restaurants
+101,Flórida Restaurante & Café,40,,,,,,restaurants
+101,Restaurante Flórida,19,,,,,,restaurants
+101,Hamburguinho,38,,,,,,restaurants
+101,La Varanda Bar & Grill,48,,,,,,restaurants
+101,Brooklin Café Gourmet,121,,,,,,coffee shops
+101,QBE Café,95,,,,,,coffee shops
+101,Barraca Pastel Kyoto,97,,,,,,coffee shops
+101,Estacao Berrini 96,96,,,,,,bakeries
+182,Green Pizzas,122,,,,,,restaurants
+182,Cantina da Naide - Praça Alimentação PUC-SP Campus Consolação,52,,,,,,restaurants
+182,Descolado,73,,,,,,restaurants
+182,Burguer e Grelhados,75,,,,,,restaurants
+182,Burguer e Grelhados,75,,,,,,coffee shops
+620,Quiosque Chopp Brahma,40,,,,,,restaurants
+620,Bar e Restaurante Pavão,32,,,,,,restaurants
+620,Noix Hamburgueria,23,,,,,,restaurants
+620,Opereta,25,,,,,,restaurants
+620,Nosso Quintal Bar e Restaurante,40,,,,,,restaurants
+620,Restaurante Quiosque Chopp Brahma - Vila Olímpia,46,,,,,,restaurants
+620,Kosher Kilo- Restaurante -Vila Olimpia,66,,,,,,restaurants
+620,Al Mahachi,81,,,,,,restaurants
+620,Mineiro - Pão Na Chapa,92,,,,,,restaurants
+620,Cortez Restaurante e Choperia Ltda,25,,,,,,restaurants
+153,Portella,37,,,,,,restaurants
+153,Japa's Temakeria e Bentoya,52,,,,,,restaurants
+153,Lanchonete Império Real,30,,,,,,restaurants
+153,1º Jantar Típico Alemão,24,,,,,,restaurants
+153,Cantinho da Bahia,51,,,,,,restaurants
+153,Kebab Semíramis,42,,,,,,restaurants
+153,La Nostra Pizza,42,,,,,,restaurants
+153,Bar do Baiano,45,,,,,,restaurants
+153,Bar e Restaurante Big House,46,,,,,,restaurants
+153,Big House Pub & Food,49,,,,,,restaurants
+153,Plantaria Cafeteria e Jardinagem,48,,,,,,coffee shops
+153,EVS - Espaço Vida Saudável Herbalife,71,,,,,,coffee shops
+33,Levitas Café,101,,,,,,coffee shops
+406,Tanka Restaurante,125,,,,,,restaurants
+406,Melts,96,,,,,,restaurants
+406,Nandemoyá,104,,,,,,restaurants
+406,Guioza da Família Nakamura,95,,,,,,restaurants
+406,Cia. Oriental Restaurante,40,,,,,,restaurants
+406,Bodogami,81,,,,,,restaurants
+406,Jardim Oriental,101,,,,,,restaurants
+406,Subway,95,,,,,,restaurants
+406,Amigos da Liberdade,117,,,,,,restaurants
+406,Yakisoba,47,,,,,,restaurants
+406,Bodogami,81,,,,,,coffee shops
+406,Black Jack Café,12,,,,,,coffee shops
+406,Bookafé,73,,,,,,coffee shops
+71,Juanitos,29,,,,,,restaurants
+71,Malagueta's,55,,,,,,restaurants
+71,Duas Terezas - Jardins,87,,,,,,restaurants
+71,Trattoria TavoLino Jardins,40,,,,,,restaurants
+71,Estação Lorena - Restaurante,27,,,,,,restaurants
+71,Pimenta Romã,106,,,,,,restaurants
+71,Duas Terezas,82,,,,,,restaurants
+71,Amor aos Pedaços,14,,,,,,restaurants
+71,Lulli Café,20,,,,,,restaurants
+71,da Lorena,31,,,,,,restaurants
+71,Lulli Café,20,,,,,,coffee shops
+71,Todos Os Sentidos,38,,,,,,coffee shops
+444,Bar do Zóio,50,,,,,,restaurants
+444,Toldinho Vermelho,48,,,,,,restaurants
+444,Dora Lanchonete,69,,,,,,restaurants
+444,Italianni's,72,,,,,,restaurants
+444,Bar Bhrama Campos de Marte,96,,,,,,restaurants
+444,Gelele,81,,,,,,restaurants
+444,Pieta Bar,92,,,,,,restaurants
+444,Christhie S,95,,,,,,restaurants
+444,Na Fila do Pão,74,,,,,,bakeries
+175,Latife,88,,,,,,restaurants
+175,Harry's Bar e Restaurante,71,,,,,,restaurants
+175,Taco Bell,87,,,,,,restaurants
+175,Empório Arte Nata,70,,,,,,restaurants
+175,Branche,87,,,,,,restaurants
+175,Tendinha Paulista,91,,,,,,restaurants
+175,Burger+,99,,,,,,restaurants
+175,Restaurante Frei Paulista Ltda Epp,69,,,,,,restaurants
+175,호호불닭,70,,,,,,restaurants
+175,Montana Grill,79,,,,,,restaurants
+175,Starbucks,93,,,,,,coffee shops
+175,Empório Arte Nata,70,,,,,,coffee shops
+175,Havana Cafe,62,,,,,,coffee shops
+175,Espaço vida saudável Paulista 2001 sala 402,85,,,,,,coffee shops
+175,Cristalo na joao manuel,87,,,,,,coffee shops
+175,Bubblekill,87,,,,,,coffee shops
+175,Tendinha Paulista,91,,,,,,bakeries
+523,Zumba da Carne de Sol,10,,,,,,restaurants
+523,Boston Bakery,96,,,,,,restaurants
+523,Lou's Village,9,,,,,,restaurants
+523,Mercatto,92,,,,,,restaurants
+523,Rancho Itaim,17,,,,,,restaurants
+523,Star Bar Hamburgueria,71,,,,,,restaurants
+523,Beity Restaurante,80,,,,,,restaurants
+523,Restaurante Diplomata,85,,,,,,restaurants
+523,V & H Comércio de Carnes,86,,,,,,restaurants
+523,Patroni Expresso,92,,,,,,restaurants
+523,Blend Express,73,,,,,,coffee shops
+523,Simplicidade,78,,,,,,coffee shops
+523,Boston Bakery,96,,,,,,bakeries
+523,Padaria La Ville,94,,,,,,bakeries
+569,Mariana's Grill,54,,,,,,restaurants
+569,Estação 45,35,,,,,,restaurants
+569,Dídio Pizza,56,,,,,,restaurants
+569,Brasa3Burguer,31,,,,,,restaurants
+569,Fortaleza Mineira,58,,,,,,restaurants
+569,Katana Temaki e Rolls,39,,,,,,restaurants
+569,Restaurante Fenix,97,,,,,,restaurants
+569,Acai Mariana,54,,,,,,restaurants
+569,Jvtg - Bar & Restaurante,59,,,,,,restaurants
+569,Lemos Restaurante,68,,,,,,restaurants
+569,Conveniencia Vila Montana,17,,,,,,coffee shops
+569,Café Trastevere,83,,,,,,coffee shops
+569,Kafee,72,,,,,,coffee shops
+569,FEB Informática Comércio e Serviços Ltda.,77,,,,,,coffee shops
+569,Paulista Kaffee,78,,,,,,coffee shops
+569,Café Arcangeli,91,,,,,,coffee shops
+569,Padaria,76,,,,,,bakeries
+394,Kombi do Zé do Coco,1273,,,,,,restaurants
+394,Kombi do Zé do Coco,1273,,,,,,coffee shops
+351,Cafeteria,53,,,,,,restaurants
+351,Cafeteria,53,,,,,,coffee shops
+120,A Caverna,55,,,,,,restaurants
+120,Queijos e Vinhos,66,,,,,,restaurants
+120,The Kitchen,77,,,,,,restaurants
+120,Fred's BBQ,89,,,,,,restaurants
+120,Cia dos Sabores,91,,,,,,restaurants
+120,Toro Burger Lounge,93,,,,,,restaurants
+144,Trattoria Fasano,33,,,,,,restaurants
+144,Manifesto Bar,90,,,,,,restaurants
+144,Horácio Café,88,,,,,,restaurants
+144,Milló,48,,,,,,restaurants
+144,Dona Deôla - Itaim Bibi,83,,,,,,restaurants
+144,Lanchonete Que Legal,64,,,,,,restaurants
+144,Recanto Mineiro Restaurante,64,,,,,,restaurants
+144,Ana Goumert,41,,,,,,restaurants
+144,Marach Cozinha Armenia,75,,,,,,restaurants
+144,Gua.co,76,,,,,,restaurants
+144,Horácio Café,88,,,,,,coffee shops
+144,Affari,36,,,,,,coffee shops
+144,Baixo Augusta @ Google,51,,,,,,coffee shops
+144,Raus Café,58,,,,,,coffee shops
+144,Giro Café,62,,,,,,coffee shops
+144,Mantí Café,64,,,,,,coffee shops
+144,EVS - Espaço Vida Saudável Herbalife,106,,,,,,coffee shops
+144,Dona Deôla - Itaim Bibi,83,,,,,,bakeries
+144,Lanchonete Que Legal,64,,,,,,bakeries
+510,Rivas Brewing Co.,67,,,,,,restaurants
+510,Aldeia do bispo,65,,,,,,restaurants
+510,Bar e Lanchonete Nhambiquaras,17,,,,,,restaurants
+510,Escritorio Parada da Bala,26,,,,,,restaurants
+510,Oakberry,58,,,,,,restaurants
+510,Let's Pizza,58,,,,,,restaurants
+510,Magnifique Café,62,,,,,,restaurants
+510,Sheriff's Grilled Burger,63,,,,,,restaurants
+510,Jobim Bar,66,,,,,,restaurants
+510,Pastelatto,67,,,,,,restaurants
+510,Magnifique Café,62,,,,,,coffee shops
+510,Sheriff's Grilled Burger,63,,,,,,coffee shops
+510,Aldeia do bispo,65,,,,,,bakeries
+223,Doce & Cia,32,,,,,,restaurants
+223,Pastel da Maria,35,,,,,,restaurants
+223,Nova Sorvetes,89,,,,,,restaurants
+223,Fradi Kilo,14,,,,,,restaurants
+223,Restaurante e Lanchonete Terra,70,,,,,,restaurants
+223,Panela de Ouro,23,,,,,,restaurants
+223,Web Buffet,15,,,,,,restaurants
+223,Hammers,32,,,,,,restaurants
+223,Restaurante Fradiquinho,38,,,,,,restaurants
+223,Divino Restaurante,72,,,,,,restaurants
+223,Pastel da Maria,35,,,,,,coffee shops
+223,Di Monê Chocolates,39,,,,,,coffee shops
+223,Suprinform,46,,,,,,coffee shops
+223,Casa Fradique Delicatessen,69,,,,,,coffee shops
+223,SaboreaTéYCafé,74,,,,,,coffee shops
+223,Splash Bebidas Urbanaa,76,,,,,,coffee shops
+223,Splash Bebidas Urbanas,77,,,,,,coffee shops
+223,Confeitaria do Seu Apolinário,44,,,,,,bakeries
+129,Zeni Sushi,34,,,,,,restaurants
+129,Gerais Culinária Mineira,13,,,,,,restaurants
+129,Morumbi Grill,51,,,,,,restaurants
+129,7Eleven,72,,,,,,restaurants
+129,Bella Moema,21,,,,,,restaurants
+129,Tico-Tico,91,,,,,,restaurants
+193,A Casa Azul Bistro,10,,,,,,restaurants
+409,Cozinha da Má,106,,,,,,restaurants
+409,Restaurante Triunfo,110,,,,,,restaurants
+409,Bagunças,132,,,,,,restaurants
+225,Restaurante Mercearia do Conde,60,,,,,,restaurants
+225,Ibiza,78,,,,,,restaurants
+410,Forno,24,,,,,,restaurants
+410,Holy Burger,72,,,,,,restaurants
+410,Bar do Seu Zé,61,,,,,,restaurants
+410,Pizzaria Nova Esperança,72,,,,,,restaurants
+410,Yakissoberia,48,,,,,,restaurants
+410,Lanchonete Nova Major,103,,,,,,restaurants
+410,Tortulia Grill,84,,,,,,restaurants
+410,Restaurante Bar e Lanchonete do Cícero,69,,,,,,restaurants
+410,Lanchonete Estrela do Sabor,75,,,,,,restaurants
+410,Italia Pizza,74,,,,,,restaurants
+253,Minerva Lanches e Grelhados,62,,,,,,restaurants
+253,Bandejão da Civil - Poli USP,68,,,,,,restaurants
+253,China Town,73,,,,,,restaurants
+253,Rainha das Saladas,88,,,,,,restaurants
+335,Soul Botequim,9,,,,,,restaurants
+335,Hanjou,36,,,,,,restaurants
+335,CI Restaurante Indiano,33,,,,,,restaurants
+335,Original Burger,21,,,,,,restaurants
+335,Subway,17,,,,,,restaurants
+335,Bella Fatia Pizzaria Napoletana,26,,,,,,restaurants
+335,Burguer Bite,18,,,,,,restaurants
+335,Espetinhos Brooklin,35,,,,,,restaurants
+335,Kilo Clube Açaí,65,,,,,,restaurants
+335,Üpangen Cocina Latinoamericana,68,,,,,,restaurants
+335,Original Burger,21,,,,,,coffee shops
+335,Sabor Chocolate,17,,,,,,coffee shops
+339,La Empanada,77,,,,,,restaurants
+146,Barraca da Saúde - ciclovia base Interlagos,60,,,,,,restaurants
+151,Bar e Restaurante Limoeiro,27,,,,,,restaurants
+151,Bar e Lanches João Julião Ltda,79,,,,,,restaurants
+151,Bar e Lanchonete Pâo de Queijo,36,,,,,,restaurants
+151,Mamma Fellice,47,,,,,,restaurants
+151,Vergueiros Bar e Restaurante,47,,,,,,restaurants
+151,Parada da Vergueiro,47,,,,,,restaurants
+151,Canto da Gula,49,,,,,,restaurants
+151,Lanchonete Gomes & Maia,61,,,,,,restaurants
+151,Bar do Josué,62,,,,,,restaurants
+151,Express Café,80,,,,,,restaurants
+151,Caffetteria Ferraro,21,,,,,,coffee shops
+151,Bar e Lanches João Julião Ltda,79,,,,,,coffee shops
+151,EVS Herbalife Vergueiro,42,,,,,,coffee shops
+151,Cintron CCSP,63,,,,,,coffee shops
+151,Express Café,80,,,,,,coffee shops
+473,Charme de Higienópolis,34,,,,,,restaurants
+473,Sanduba's Burguer,65,,,,,,restaurants
+473,Kilo Laranja,82,,,,,,restaurants
+473,Erica Melo,73,,,,,,restaurants
+220,Nou,12,,,,,,restaurants
+220,Piccolo,21,,,,,,restaurants
+220,Le Jazz Brasserie,34,,,,,,restaurants
+220,La Guapa,53,,,,,,restaurants
+220,Ella | Fitz Ristoranti,44,,,,,,restaurants
+220,Braz Elettrica,74,,,,,,restaurants
+220,Cantina Gigio,83,,,,,,restaurants
+220,It Sushi,21,,,,,,restaurants
+220,Manteigaria Lisboa,15,,,,,,restaurants
+220,Bra.do,48,,,,,,restaurants
+220,Madadayo Lancheteria,12,,,,,,coffee shops
+220,Café Coletivo Pinheiros,29,,,,,,coffee shops
+220,Sofá Café Xpress,29,,,,,,coffee shops
+220,Naked Coffee Pinheiros,118,,,,,,coffee shops
+220,La Gioia,31,,,,,,coffee shops
+220,Le Jazz Boulangerie,58,,,,,,bakeries
+220,La Gioia,31,,,,,,bakeries
+353,Lima Nova,49,,,,,,restaurants
+12,Void General Store Largo da Batata,96,,,,,,restaurants
+12,Coqueiro III,84,,,,,,restaurants
+12,Gramado Food,51,,,,,,restaurants
+12,Bar e Lanchonete Goela Seca,55,,,,,,restaurants
+12,Recanto Faria Lima,77,,,,,,restaurants
+12,Bar Mercadao,87,,,,,,restaurants
+12,Yakissoba Mix Restaurante,42,,,,,,restaurants
+12,Potato Square,90,,,,,,restaurants
+12,EVS - Espaço Vida Saudável Herbalife,36,,,,,,coffee shops
+12,Coqueiro III,84,,,,,,bakeries
+23,Trio 19,90,,,,,,restaurants
+23,Otto Ristorante,88,,,,,,restaurants
+23,Villa Santa,64,,,,,,restaurants
+23,Cariocas Bar,70,,,,,,restaurants
+23,Icon,98,,,,,,restaurants
+23,Restaurante Rústico,117,,,,,,restaurants
+23,EVS - Espaço Vida Saudável Herbalife,89,,,,,,coffee shops
+23,EVS - Espaço Vida Saudável Herbalife,76,,,,,,coffee shops
+23,Coffee & Snack,91,,,,,,coffee shops
+242,Letras,94,,,,,,coffee shops
+582,Il Panino di Eataly,99,,,,,,restaurants
+582,Trabuca Bar,72,,,,,,restaurants
+582,Burger King,80,,,,,,restaurants
+582,Chiquinhos grils JK,83,,,,,,restaurants
+582,Jotaka Restaurante e Lanchonete,111,,,,,,restaurants
+582,Espaço HLF - Spotlight JK,52,,,,,,coffee shops
+582,Emporio Baglioni,16,,,,,,bakeries
+452,Zumba E/Ou Zumba da Carne de Sol,100,,,,,,restaurants
+452,Sukiya,75,,,,,,restaurants
+452,Burger King,71,,,,,,restaurants
+452,Bar do Silas,84,,,,,,restaurants
+452,Pastel Hortifrut Vila Olimpia,42,,,,,,restaurants
+452,Lanchonete do Fabiano,60,,,,,,restaurants
+452,Hipinshan,71,,,,,,restaurants
+452,Noemia Pasteis,83,,,,,,restaurants
+452,New Point Bar,88,,,,,,restaurants
+452,Tomillo Restaurante Self-Service,99,,,,,,restaurants
+452,Lanchonete do Fabiano,60,,,,,,coffee shops
+452,Rei do Mate 2 andar,91,,,,,,coffee shops
+619,Sallvattore,72,,,,,,restaurants
+619,Torero Valese,77,,,,,,restaurants
+619,Sassá Sushi,62,,,,,,restaurants
+619,Pasteis Mariella,47,,,,,,restaurants
+619,Bar Espírito Santo,60,,,,,,restaurants
+619,Freixenet,66,,,,,,restaurants
+619,Horacio Bar e Cucina,80,,,,,,restaurants
+619,Horacio Bar e Cucina,87,,,,,,restaurants
+619,Salvatori,65,,,,,,restaurants
+40,Joakin's,53,,,,,,restaurants
+40,New Dog,49,,,,,,restaurants
+40,Paco Esfiha,23,,,,,,restaurants
+40,Bastrô,85,,,,,,restaurants
+40,OAZI Restaurante,75,,,,,,restaurants
+40,Paraíso da Gula,31,,,,,,restaurants
+40,Caffé Floriano,35,,,,,,restaurants
+40,Kana Brava Bar,45,,,,,,restaurants
+40,Ponto Doce,14,,,,,,restaurants
+40,Point do Itaim,27,,,,,,restaurants
+40,Joakin's,53,,,,,,coffee shops
+40,Bastrô,85,,,,,,coffee shops
+40,Caffé Floriano,35,,,,,,coffee shops
+40,Lanches Bibi,44,,,,,,coffee shops
+40,Café do Ponto,102,,,,,,coffee shops
+40,Café Floriano - Restaurante e Padaria,25,,,,,,bakeries
+48,Kilo & Co,50,,,,,,restaurants
+48,Forgalha,21,,,,,,restaurants
+48,Bauerland,99,,,,,,restaurants
+48,Ninho do Amor,109,,,,,,restaurants
+564,Hi Pin Shan,22,,,,,,restaurants
+564,Saijou,52,,,,,,restaurants
+564,Pizzaria Monte Verde,52,,,,,,restaurants
+564,Proive restaurant,43,,,,,,restaurants
+564,Bar do Urso,69,,,,,,restaurants
+564,Tradi Express,76,,,,,,restaurants
+564,Cozinha de Bistrô de Autoria,103,,,,,,restaurants
+564,Restaurante e Bufe Sayeg,44,,,,,,restaurants
+564,Canto da Cachoeira Happy Hour - Bar,96,,,,,,restaurants
+564,EVS - Espaço Vida Saudável Herbalife,73,,,,,,coffee shops
+564,D.O.A. – Denominação de Origem Artesanal,61,,,,,,bakeries
+10,Mãe Floresta,48,,,,,,restaurants
+10,Bricius,53,,,,,,restaurants
+10,Open Grill,17,,,,,,restaurants
+10,Temakeria Tem Aki,35,,,,,,restaurants
+10,Sushi do Hélio,25,,,,,,restaurants
+10,Totty Restaurante,47,,,,,,restaurants
+10,Restaurante Água Na Boca,41,,,,,,restaurants
+10,Sallu Restaurante,45,,,,,,restaurants
+10,Buffet Palace,48,,,,,,restaurants
+10,MaxGrill,49,,,,,,restaurants
+10,Café da Julia,60,,,,,,coffee shops
+10,LEDE Café,45,,,,,,coffee shops
+10,Petit Piaf,47,,,,,,coffee shops
+10,Coffee4u,59,,,,,,coffee shops
+10,Koinobori,92,,,,,,coffee shops
+10,Prandium,58,,,,,,coffee shops
+10,Benjamin A Padaria,46,,,,,,bakeries
+10,Uno & Due Comércio Alimentício Ltda,53,,,,,,bakeries
+465,Bar e Lanches Duas Pátrias,53,,,,,,restaurants
+465,Casa Bauducco,63,,,,,,restaurants
+465,Original Cookies Biscoitos,69,,,,,,restaurants
+465,Pepper Bar e Lanchonete,69,,,,,,restaurants
+465,McCafé,88,,,,,,restaurants
+465,Bigorna,98,,,,,,restaurants
+465,Eld Serviços de Alimentacao Ltda,69,,,,,,restaurants
+465,Hideki - Pinheiros,94,,,,,,restaurants
+465,Della Catty Cafeteria,41,,,,,,coffee shops
+465,Casa Bauducco,63,,,,,,coffee shops
+465,McCafé,88,,,,,,coffee shops
+468,Armazem Garnize,5,,,,,,restaurants
+468,Ponto Chic,66,,,,,,restaurants
+468,Piccolo Caffe Amelia & Abigail,14,,,,,,restaurants
+468,Pizzaria Pomodorini,8,,,,,,restaurants
+468,Worst Burguer,13,,,,,,restaurants
+468,Restaurante & Bar do Zé,83,,,,,,restaurants
+468,Pi Co. Pizza Corner,99,,,,,,restaurants
+468,Piccolo Caffe Amelia & Abigail,14,,,,,,coffee shops
+468,Bar do Paulo,54,,,,,,coffee shops
+468,Padaria Feola,35,,,,,,bakeries
+578,Vinil Burger,32,,,,,,restaurants
+578,Arlete Bar & Mercearia,44,,,,,,restaurants
+578,Negroni,50,,,,,,restaurants
+578,Buzina,52,,,,,,restaurants
+578,Brigadeiro Doceria & Café,99,,,,,,restaurants
+578,Le Bon Gâteau,99,,,,,,restaurants
+578,Tahin,62,,,,,,restaurants
+578,Sole Comidas Artesanais,71,,,,,,restaurants
+578,Ginger Spirits & Drinks,57,,,,,,restaurants
+578,Açai Concept Pinheiros,13,,,,,,restaurants
+578,Classic Bread and Grill,96,,,,,,bakeries
+578,Restaurante Classic Bread & Grill,77,,,,,,bakeries
+325,Lanchonete Dois Passarinhos,19,,,,,,restaurants
+325,Subway Posto IPIRANGA,54,,,,,,restaurants
+325,Lanchonete Nova Grafite de Vila Olimpia Ltda EPP,73,,,,,,restaurants
+325,Subway,63,,,,,,restaurants
+325,Rhino,33,,,,,,restaurants
+325,Camel Bar,1672,,,,,,restaurants
+325,Am/Pm Santo Amaro Posti Queens,23,,,,,,coffee shops
+325,Café Emporium São Paulo,60,,,,,,coffee shops
+325,Lanchonete Nova Grafite de Vila Olimpia Ltda EPP,73,,,,,,bakeries
+77,Pizzaria Prestíssimo,14,,,,,,restaurants
+77,Rotisserie Santa Gema,34,,,,,,restaurants
+77,Tibet Lounge,21,,,,,,restaurants
+77,Lanches Milenio,31,,,,,,restaurants
+77,Jolly Pizzaria,32,,,,,,restaurants
+77,Benjamin A Padaria,62,,,,,,restaurants
+77,Tiro Certo,49,,,,,,restaurants
+77,Ler,53,,,,,,restaurants
+77,Prespizza,69,,,,,,restaurants
+77,Hungaria,77,,,,,,restaurants
+77,Benjamin A Padaria,62,,,,,,bakeries
+13,Bar do Pedrinho - A Hebraica,67,,,,,,restaurants
+13,ECP - Cabana do Pai Tomás,96,,,,,,restaurants
+13,Bar do Pedrinho - A Hebraica,67,,,,,,coffee shops
+44,Les Gaúchas,29,,,,,,restaurants
+44,Portuga,52,,,,,,restaurants
+44,La Buca Express,62,,,,,,restaurants
+44,Restaurante e Pizzaria Violeta,67,,,,,,restaurants
+598,Pratada!,22,,,,,,restaurants
+598,Z DELI Sandwiches,66,,,,,,restaurants
+598,Espace Douce France,5,,,,,,restaurants
+598,Lanchonete e Restaurante da Cidade,81,,,,,,restaurants
+598,Espace Douce Etiópia,18,,,,,,restaurants
+598,Ocupa Centro,48,,,,,,restaurants
+598,31 Restaurante,49,,,,,,restaurants
+598,Bar do Mané,58,,,,,,restaurants
+598,Zeus Drink's.,58,,,,,,restaurants
+598,Lagema Restaurante,62,,,,,,restaurants
+598,Espace Douce France,5,,,,,,coffee shops
+598,Lanchonete e Restaurante da Cidade,81,,,,,,coffee shops
+598,La Boutique Café,12,,,,,,coffee shops
+598,Bento 43,58,,,,,,coffee shops
+598,Café Experimental Centro,57,,,,,,coffee shops
+598,Assaz Organica,68,,,,,,bakeries
+234,Votre Brasserie,85,,,,,,restaurants
+234,Pecorino Cucina Mediterranea Pinheiros,51,,,,,,restaurants
+234,Natingui Bistrô,49,,,,,,restaurants
+234,Teus Restaurante Bar,88,,,,,,restaurants
+234,Hamburgue City Lanches,88,,,,,,restaurants
+20,Cristal Pizza Bar,77,,,,,,restaurants
+115,Kobu Sushi,30,,,,,,restaurants
+115,Red Parrilla,41,,,,,,restaurants
+115,Red Bar,60,,,,,,restaurants
+115,Red Galeteria,57,,,,,,restaurants
+115,Club Life To Go Brooklin,23,,,,,,restaurants
+115,Lanchonete Sabor da Esquina,87,,,,,,restaurants
+115,Pomar SP,14,,,,,,restaurants
+115,Goodies Rebel Burger,24,,,,,,restaurants
+115,Bush Burger Smash House,24,,,,,,restaurants
+115,Banana’s,71,,,,,,restaurants
+50,L'Entrecôte de Paris,30,,,,,,restaurants
+50,Freddy,58,,,,,,restaurants
+50,Millesapori,68,,,,,,restaurants
+50,Mago Restaurante,64,,,,,,restaurants
+50,The Bowl,78,,,,,,restaurants
+50,Carcamano,18,,,,,,restaurants
+50,Le Bife,57,,,,,,restaurants
+50,Beth Cozinha de Estar,79,,,,,,restaurants
+50,Ambrosia Restaurante,67,,,,,,restaurants
+50,Restaurante Maracujá,76,,,,,,restaurants
+50,Caffé Latte,51,,,,,,coffee shops
+50,Nova Itaim,68,,,,,,coffee shops
+50,Caffè Latte - Itaim Bibi,54,,,,,,coffee shops
+50,Padaria Alvarenga,45,,,,,,bakeries
+538,Al Mahachi,27,,,,,,restaurants
+538,Quiosque Chopp Brahma,101,,,,,,restaurants
+538,Nosso Quintal Bar e Restaurante,76,,,,,,restaurants
+538,Opereta,92,,,,,,restaurants
+538,TIG Bar e Restaurante Ltda ME,62,,,,,,restaurants
+538,Restaurante Gastronomico Oggi Ltda Epp,90,,,,,,restaurants
+538,The Cofee,6,,,,,,coffee shops
+538,The Cofee,9,,,,,,coffee shops
+595,Garoa Paulista,84,,,,,,restaurants
+595,Rei do Mate,49,,,,,,restaurants
+595,Restaurante Vila Paulista,98,,,,,,restaurants
+595,Bar da Costela,109,,,,,,restaurants
+595,Café Cultural,70,,,,,,restaurants
+595,Rei do Mate,49,,,,,,coffee shops
+595,SM Coffee,98,,,,,,coffee shops
+595,Rei do Mate,43,,,,,,coffee shops
+167,Papo Pinga e Petisco,91,,,,,,restaurants
+167,Green Pizzas,27,,,,,,restaurants
+167,Via Roosevelt,57,,,,,,restaurants
+167,Lanches Guimarães Rosa,21,,,,,,restaurants
+167,Pizzaria Roosevelt,52,,,,,,restaurants
+167,Novo Milênio Pizzaria e Restaurante,81,,,,,,restaurants
+167,Via Roosevelt,57,,,,,,coffee shops
+138,Hygge Bistrô,85,,,,,,restaurants
+138,Darín Gourmet,77,,,,,,restaurants
+138,Pasta d'autori,85,,,,,,restaurants
+138,The Burger Store,86,,,,,,restaurants
+138,Puteirinho Grill,39,,,,,,restaurants
+138,Pasta Dautori Rotisserie Restaurante e Comércio de Alimentos,63,,,,,,restaurants
+138,Natturale Restaurante,67,,,,,,restaurants
+138,Hale I'a Hawaiian Fish Food,73,,,,,,restaurants
+138,Artgusto,76,,,,,,restaurants
+138,Naturalle,82,,,,,,restaurants
+610,La Casserole,85,,,,,,restaurants
+610,Vovo Ali Restaurante,91,,,,,,restaurants
+610,Bar e Restaurante Queen,108,,,,,,restaurants
+610,Chopperia Estrela do Arouche,10,,,,,,restaurants
+610,Ws Socorro,32,,,,,,restaurants
+610,Odara Bar,4,,,,,,restaurants
+610,Lucy Bar Fim de Tarde,16,,,,,,restaurants
+610,Arouche Beer Sports Bar,22,,,,,,restaurants
+610,Pingao,45,,,,,,restaurants
+610,Salgados e Cia,52,,,,,,restaurants
+610,Duca,57,,,,,,coffee shops
+610,Cafe da manhã - Hotel San Raphael,59,,,,,,coffee shops
+610,Cafe 212,72,,,,,,coffee shops
+610,Clube do Chá,89,,,,,,coffee shops
+145,Dude's,54,,,,,,restaurants
+145,Rosa Gourmet Restaurante,88,,,,,,restaurants
+145,Spettus,25,,,,,,restaurants
+145,Brooklin Café Gourmet,57,,,,,,restaurants
+145,Sushi Koba,31,,,,,,restaurants
+145,Espeto da Vila,35,,,,,,restaurants
+145,Divinos Restaurante & Happy Hour,40,,,,,,restaurants
+145,Divinos,58,,,,,,restaurants
+145,Central do Brooklin,66,,,,,,restaurants
+145,Eventos MDN,66,,,,,,restaurants
+145,Bavarder Lounge Cafe,83,,,,,,coffee shops
+145,Brooklin Café Gourmet,57,,,,,,coffee shops
+145,Escritório da Alexandrina Distr. Independente HERBALIFE,44,,,,,,coffee shops
+145,Espaço Vida Saudável Estação Berrini -Joel Carlos Borges,55,,,,,,coffee shops
+145,Café Plaza Centenário,79,,,,,,coffee shops
+145,Cafe Bavader,87,,,,,,coffee shops
+145,Estacao Berrini 96,37,,,,,,bakeries
+145,Doces Brooklin,56,,,,,,bakeries
+25,Bellobello,38,,,,,,restaurants
+25,Panna Cotta Gastronomia,78,,,,,,restaurants
+25,Rock Fella Burgers & Beers,94,,,,,,restaurants
+25,Leone Gastronomia,96,,,,,,restaurants
+25,Leiteria Santa Clara,38,,,,,,restaurants
+25,Pittaya Restaurante,47,,,,,,restaurants
+25,Santa Hora,68,,,,,,restaurants
+25,B.eat Kitchen,46,,,,,,restaurants
+25,Madá,46,,,,,,restaurants
+25,Tah,88,,,,,,restaurants
+25,Leiteria Santa Clara,38,,,,,,coffee shops
+25,Café Cultura,75,,,,,,coffee shops
+25,Monk Coffee,74,,,,,,coffee shops
+25,Villa dos Pães,86,,,,,,bakeries
+158,Windhuk,26,,,,,,restaurants
+158,Moema Natural,62,,,,,,restaurants
+158,Gajos,102,,,,,,restaurants
+158,Burdega Hambúrguer,28,,,,,,restaurants
+158,Véu de Seda,90,,,,,,restaurants
+158,Gimba,43,,,,,,restaurants
+158,Cotovia Lanches,3,,,,,,restaurants
+158,Canto da Cotovia Lanchonete,33,,,,,,restaurants
+158,Buffet Estação Club,72,,,,,,restaurants
+158,Sementina,79,,,,,,restaurants
+158,Gimba,43,,,,,,coffee shops
+293,KomeKome,32,,,,,,restaurants
+293,Domênica Café,30,,,,,,restaurants
+293,Bar do Marcão,49,,,,,,restaurants
+293,Esquina da Vila,58,,,,,,restaurants
+293,Esfiharia Super Líbano,81,,,,,,restaurants
+293,Café do Tó,82,,,,,,restaurants
+293,Ypê Restaurante,88,,,,,,restaurants
+293,Great Taste Eat Fresh,95,,,,,,restaurants
+293,Estrela da Ana Rosa,95,,,,,,restaurants
+293,Mesa Farta,11,,,,,,restaurants
+293,Domênica Café,30,,,,,,coffee shops
+293,Açai com Mate,69,,,,,,coffee shops
+293,Café do Tó,82,,,,,,coffee shops
+293,Melonpan,36,,,,,,coffee shops
+293,Melonpan,36,,,,,,bakeries
+293,Casa dos Pães Mosteiro de São Bento,65,,,,,,bakeries
+293,Joia da Vergueiro,106,,,,,,bakeries
+422,Restaurante Hitz,42,,,,,,restaurants
+422,Ícone,80,,,,,,restaurants
+399,Bandejão da Física,31,,,,,,restaurants
+458,Baiano de Dois,52,,,,,,restaurants
+458,Bellatucci Café,88,,,,,,restaurants
+458,Nakamura Pastéis,13,,,,,,restaurants
+458,Bem Dito Grill's,35,,,,,,restaurants
+458,Café & Biscoiteria Nacional,60,,,,,,restaurants
+458,Como Assim?!,60,,,,,,restaurants
+458,Cozinha Real,77,,,,,,restaurants
+458,Espaço Lisboa,77,,,,,,restaurants
+458,Hji,89,,,,,,restaurants
+458,Pastelaria e Empadaria Big - Pinheiros,103,,,,,,restaurants
+458,Bellatucci Café,88,,,,,,coffee shops
+458,Fran's Café Origem,43,,,,,,coffee shops
+458,Gauri Café,58,,,,,,coffee shops
+458,Café & Biscoiteria Nacional,60,,,,,,coffee shops
+458,Doces e Cafe Millennium,65,,,,,,coffee shops
+141,Baby Beef Rubaiyat,77,,,,,,restaurants
+141,Sushi Massao,50,,,,,,restaurants
+141,Casa Ferraz,56,,,,,,restaurants
+141,Yakisoba Factory,40,,,,,,restaurants
+141,Cozinharia,19,,,,,,restaurants
+141,Nakata.Net,27,,,,,,restaurants
+141,Mexirica,45,,,,,,restaurants
+141,FitBurguer,47,,,,,,restaurants
+141,Rubaiyat Faria Lima,48,,,,,,restaurants
+141,A Panelaria,51,,,,,,restaurants
+141,Casa Bauducco,75,,,,,,coffee shops
+141,Fafa Cafe & Restaurante,90,,,,,,coffee shops
+141,#DoceEncontro Com @DoceMenor,20,,,,,,coffee shops
+141,Nakata Cafe,45,,,,,,coffee shops
+141,Casa do Pão de Queijo,119,,,,,,coffee shops
+177,Tradicional Casa do Mate,7,,,,,,restaurants
+177,Rei do Mate,20,,,,,,restaurants
+177,Subte Vegan,74,,,,,,restaurants
+177,Aboud Shawarma & Comida Arabe,104,,,,,,restaurants
+177,Ponto Chic,85,,,,,,restaurants
+177,Uva e Caju,97,,,,,,restaurants
+177,Rio Mar Restaurante,79,,,,,,restaurants
+177,Lanchonete Estrela do Paissandú,97,,,,,,restaurants
+177,Pizzas em Pedaços,77,,,,,,restaurants
+177,Brilho do Sol,40,,,,,,restaurants
+177,Tradicional Casa do Mate,7,,,,,,coffee shops
+177,Rei do Mate,20,,,,,,coffee shops
+177,Esquina da Mpb,92,,,,,,coffee shops
+177,Lanchonete & restaurante,95,,,,,,coffee shops
+177,República do Café,116,,,,,,coffee shops
+354,Ponto Chic,55,,,,,,restaurants
+354,Halim,85,,,,,,restaurants
+354,Outback Steakhouse,88,,,,,,restaurants
+354,O Vegetariano Gourmet,72,,,,,,restaurants
+354,Piadina Romagnola,98,,,,,,restaurants
+354,Tago's,70,,,,,,restaurants
+354,Pé na Jaca,69,,,,,,restaurants
+354,Cantinho Mineiro,86,,,,,,restaurants
+354,Sabor Real Restaurante Grill,73,,,,,,restaurants
+354,Sukiya,92,,,,,,restaurants
+354,Starbucks,99,,,,,,coffee shops
+354,Mr. Cheney Cookies,76,,,,,,coffee shops
+354,EVS da Praça - Espaço Vida Saudável,14,,,,,,coffee shops
+354,EVS - Espaço Vida Saudável Herbalife,26,,,,,,coffee shops
+354,Vanilla Caffé - Jardins,32,,,,,,coffee shops
+354,Gran Café,39,,,,,,coffee shops
+354,LUCKY CAT coffee,71,,,,,,coffee shops
+354,Mopenhagen,82,,,,,,coffee shops
+354,EVS Paraiso,94,,,,,,coffee shops
+121,Açaí Original,88,,,,,,restaurants
+121,Mexicaníssimo,72,,,,,,restaurants
+121,Royal Club,52,,,,,,restaurants
+121,Sujinhuús,53,,,,,,restaurants
+121,Le Caipirinha,21,,,,,,restaurants
+121,Bar e Lanchonete Quatá,57,,,,,,restaurants
+121,Boteco Pellegrino,42,,,,,,restaurants
+121,Geru Grill,47,,,,,,restaurants
+121,Saboroso Restaurante,58,,,,,,restaurants
+121,Torta Em Casa,73,,,,,,restaurants
+121,Açaí Original,88,,,,,,coffee shops
+121,Bar e Lanchonete Quatá,57,,,,,,coffee shops
+571,Magic Chicken,73,,,,,,restaurants
+571,Amarelinho Bar,44,,,,,,restaurants
+571,Temaki SP,108,,,,,,restaurants
+571,Santo Frango,88,,,,,,restaurants
+571,Styllus Grill,19,,,,,,restaurants
+571,Verdinho,54,,,,,,restaurants
+571,Café com Biscoito,60,,,,,,restaurants
+571,Temaki Fry Maracatins,74,,,,,,restaurants
+571,Espetinho Moema,75,,,,,,restaurants
+571,Amor de Churros,83,,,,,,restaurants
+571,EVS - Espaço Vida Saudável Herbalife,36,,,,,,coffee shops
+571,Felicia cookies e delicias,38,,,,,,coffee shops
+571,Café,51,,,,,,coffee shops
+571,Café com Biscoito,60,,,,,,coffee shops
+232,St. Chico,20,,,,,,restaurants
+232,Yashiro Sushi | 八代,72,,,,,,restaurants
+232,Buti,105,,,,,,restaurants
+232,LosDos,84,,,,,,restaurants
+232,Baixo Pinheiros Bar,98,,,,,,restaurants
+232,Quero Pizza,52,,,,,,restaurants
+232,Mica Restaurante,99,,,,,,restaurants
+232,Casa do Pastel O Tiquinho Ltda,46,,,,,,restaurants
+232,Asahi,62,,,,,,restaurants
+232,Café canela,71,,,,,,restaurants
+232,St. Chico,20,,,,,,bakeries
+552,Darín Gourmet,104,,,,,,restaurants
+552,Puteirinho Grill,28,,,,,,restaurants
+552,Artgusto,62,,,,,,restaurants
+552,Pizzaria Papa Pizza,76,,,,,,restaurants
+552,Fabbrica Illegale,91,,,,,,restaurants
+552,Natturale Restaurante,89,,,,,,restaurants
+552,Pasta Dautori Rotisserie Restaurante e Comércio de Alimentos,91,,,,,,restaurants
+552,Shiro,98,,,,,,restaurants
+552,Hale I'a Hawaiian Fish Food,100,,,,,,restaurants
+552,Pasta d'Autori Cucina Originale,91,,,,,,restaurants
+568,Padaria Santa Tereza,65,,,,,,restaurants
+568,Cacau Show,95,,,,,,restaurants
+568,Bar e Restaurante Estação João Mendes,60,,,,,,restaurants
+568,La Brusco Lanchonete,24,,,,,,restaurants
+568,Grill João Mendes,69,,,,,,restaurants
+568,Lanchonete Oba Oba,96,,,,,,restaurants
+568,Somas Grill,99,,,,,,restaurants
+568,Restaurante La Vilette,100,,,,,,restaurants
+568,Lanches Rmg,101,,,,,,restaurants
+568,Lanchonete Solpoente,103,,,,,,restaurants
+568,Havanna Café,68,,,,,,coffee shops
+568,Cacau Show,95,,,,,,coffee shops
+568,Kopenhangen,52,,,,,,coffee shops
+568,Labrusco,72,,,,,,coffee shops
+568,EVS - Espaço Vida Saudável,98,,,,,,coffee shops
+568,Padaria Santa Tereza,65,,,,,,bakeries
+168,McDonald's,54,,,,,,restaurants
+168,Casa do Dom,97,,,,,,restaurants
+168,Bk Moema,28,,,,,,restaurants
+168,Estancia Grill,41,,,,,,restaurants
+168,Ponto Capriccio,44,,,,,,restaurants
+168,Chicohamburguer,49,,,,,,restaurants
+168,Brillo Sampa Ou,51,,,,,,restaurants
+168,Fish Grill,61,,,,,,restaurants
+168,Churrasco Bruto,64,,,,,,restaurants
+168,Os Massas,73,,,,,,restaurants
+6,Marach,60,,,,,,restaurants
+6,Barakah Cozinha Árabe,69,,,,,,restaurants
+6,Rei do Mate,59,,,,,,restaurants
+6,Padaria Tupinambá,40,,,,,,restaurants
+6,Pelé Arena,93,,,,,,restaurants
+6,La Belle Rose,3,,,,,,restaurants
+6,McDonald's,48,,,,,,restaurants
+6,Art Sabor Cantina Ltda,23,,,,,,restaurants
+6,Iti-Kiro,47,,,,,,restaurants
+6,Belíssima,32,,,,,,restaurants
+6,Rei do Mate,59,,,,,,coffee shops
+6,Pelé Arena,93,,,,,,coffee shops
+6,La Belle Rose,3,,,,,,coffee shops
+6,EVS - Espaço Vida Saudável Herbalife,31,,,,,,coffee shops
+6,Girô Café,40,,,,,,coffee shops
+6,Máquina de Café do 16o,49,,,,,,coffee shops
+6,EVS - Espaço Vida Saudável Herbalife,64,,,,,,coffee shops
+6,Moskita Café,75,,,,,,coffee shops
+6,EVS Aprenda Viver Mais - Herbalife - Faria Lima X Rebouças,89,,,,,,coffee shops
+6,Cadiquim,96,,,,,,coffee shops
+6,Padaria Tupinambá,40,,,,,,bakeries
+280,Restaurante d'Licias,89,,,,,,restaurants
+280,Padaria California,92,,,,,,bakeries
+69,Almanara,47,,,,,,restaurants
+69,Brown Sugar,46,,,,,,restaurants
+69,Empório Frutaria,49,,,,,,restaurants
+69,Santo Grão,68,,,,,,restaurants
+69,Aoyama - Jardins,57,,,,,,restaurants
+69,Restaurante Emiliano,82,,,,,,restaurants
+69,Picchi,62,,,,,,restaurants
+69,Fotia,52,,,,,,restaurants
+69,Osteria Nonna Rosa,84,,,,,,restaurants
+69,Toro Sushi,36,,,,,,restaurants
+69,Santo Grão,68,,,,,,coffee shops
+69,The Coffee,94,,,,,,coffee shops
+69,Padaria Pet,31,,,,,,bakeries
+69,Le Blé Casa de Pães,82,,,,,,bakeries
+219,Bar do Mario,82,,,,,,restaurants
+219,Baritos Bar,38,,,,,,restaurants
+219,Boteco do Ari,116,,,,,,restaurants
+219,Welcome Coffe Mt4,21,,,,,,bakeries
+334,Fritos & Assados,55,,,,,,restaurants
+334,Restaurante Nanako,49,,,,,,restaurants
+334,Estância do Klug,59,,,,,,restaurants
+334,Roticceria Sergio Arno,61,,,,,,restaurants
+334,Melrose Place,1941,,,,,,restaurants
+123,La Forchetta,5,,,,,,restaurants
+123,Pizzaria Monte Verde,85,,,,,,restaurants
+123,Pastel da Feira João Cachoeira,27,,,,,,restaurants
+123,Bar do Urso,52,,,,,,restaurants
+123,Proive restaurant,76,,,,,,restaurants
+123,Vai cê Bão,98,,,,,,restaurants
+123,Restaurante In Città Tris Ltda EPP,46,,,,,,restaurants
+123,Canto da Cachoeira Happy Hour - Bar,73,,,,,,restaurants
+123,Restaurante e Bufe Sayeg,98,,,,,,restaurants
+123,EVS - Espaço Vida Saudável Herbalife,60,,,,,,coffee shops
+123,Vai cê Bão,98,,,,,,coffee shops
+123,D.O.A. – Denominação de Origem Artesanal,58,,,,,,bakeries
+211,Temakeria Haramon,30,,,,,,restaurants
+211,Hamburgueria Haramon,36,,,,,,restaurants
+211,Pastel Pacaembú,60,,,,,,restaurants
+211,Gelateria Le Tentazioni,79,,,,,,restaurants
+211,Nucafé,16,,,,,,coffee shops
+211,Sterna Café,27,,,,,,coffee shops
+211,AMPM Rebouças,64,,,,,,coffee shops
+150,Recanto do Paraiso - Lanchonete e Restaurante,21,,,,,,restaurants
+150,McDonald's,67,,,,,,restaurants
+150,Pastel Paraiso,60,,,,,,restaurants
+150,Recanto do Paraiso - Lanchonete e Restaurante,21,,,,,,coffee shops
+150,Toptowers Cafe,71,,,,,,coffee shops
+19,Casinha Mineira,91,,,,,,restaurants
+19,McDonald's,116,,,,,,restaurants
+19,Hassan Cozinha Árabe,25,,,,,,restaurants
+19,Funchal Grill,33,,,,,,restaurants
+19,Juca & Cia,45,,,,,,restaurants
+19,Praça S.A.,49,,,,,,restaurants
+19,Novo Horizonte - Farofa Mineral,50,,,,,,restaurants
+19,Dedo Sujo,52,,,,,,restaurants
+19,Ilha Açaí SP,53,,,,,,restaurants
+19,El Butecon Nao Sei O Nome Rs,54,,,,,,restaurants
+19,Cafeteria Original,49,,,,,,coffee shops
+19,Caffemania,57,,,,,,coffee shops
+19,Coffemania,67,,,,,,coffee shops
+19,Casa de Chá,76,,,,,,coffee shops
+19,Hortelã Bomboniere,81,,,,,,bakeries
+24,Restaurante Família Castro,50,,,,,,restaurants
+24,Timo Cucina,82,,,,,,restaurants
+24,In Città Il Più,35,,,,,,restaurants
+24,Kikko Café,57,,,,,,restaurants
+24,Hotel Mercury Executive,61,,,,,,restaurants
+24,Starbucks,31,,,,,,coffee shops
+24,Lbs Local em Vila Olímpia,53,,,,,,coffee shops
+24,Kikko Café,57,,,,,,coffee shops
+24,Gran Cafe,90,,,,,,coffee shops
+227,Borré Grill,18,,,,,,restaurants
+227,Boteco do Zé Maria,23,,,,,,restaurants
+227,Axado Drinks e gastronomia,106,,,,,,restaurants
+227,No Quintal da Mariana Tem Um Limoeiro,85,,,,,,restaurants
+227,Perpétua Café.lounge,18,,,,,,restaurants
+227,Villa Madá,31,,,,,,restaurants
+227,E-Garden Club,38,,,,,,restaurants
+227,Grill da Villaa,32,,,,,,restaurants
+227,Espetaria Mada,37,,,,,,restaurants
+227,Domino's Pinheiros,53,,,,,,restaurants
+227,Bar e Lanches Garrafão,19,,,,,,coffee shops
+227,Kell Coffee,101,,,,,,coffee shops
+227,Tomar Café Andrei Udiloff,103,,,,,,coffee shops
+22,Bar e Lanches Canarian,17,,,,,,restaurants
+22,Desfrutti,41,,,,,,restaurants
+22,Boteco do Tiao,15,,,,,,restaurants
+22,Canarian Bistro,15,,,,,,restaurants
+22,Handz By Rodrigo Einsfeld,23,,,,,,restaurants
+22,Garrubbo Restaurante,71,,,,,,restaurants
+22,Mondego Padaria & Restaurante,54,,,,,,restaurants
+22,Doze 47,75,,,,,,restaurants
+22,Maria Joana,22,,,,,,restaurants
+22,Giardini Serviços de Buffet,41,,,,,,restaurants
+22,Bar e Lanches Canarian,17,,,,,,coffee shops
+22,Atma Café,16,,,,,,coffee shops
+22,Mondego Padaria & Restaurante,54,,,,,,bakeries
+408,Pizzaria Benett's,36,,,,,,restaurants
+408,Letícia,38,,,,,,restaurants
+408,d'Pira,54,,,,,,restaurants
+408,Pizzaria Bella Capri,99,,,,,,restaurants
+408,Paes e Doces da Vila Ltda,55,,,,,,restaurants
+408,Paes e Doces da Vila Ltda,55,,,,,,coffee shops
+408,Letícia,38,,,,,,bakeries
+408,Paes e Doces da Vila Ltda,55,,,,,,bakeries
+229,Fazemos Pao,61,,,,,,restaurants
+229,Mestre Queijeiro,92,,,,,,restaurants
+229,Isla Cafe,84,,,,,,restaurants
+229,Dona Lu,70,,,,,,restaurants
+229,O Carvalho Panificadora,34,,,,,,restaurants
+229,Cafe Pequeno,94,,,,,,restaurants
+229,Âme Café & Pâtisserie,59,,,,,,coffee shops
+229,Solo Qui,92,,,,,,coffee shops
+229,Fazemos Pao,61,,,,,,bakeries
+229,Mintchi Croissant,72,,,,,,bakeries
+229,Mintchi,56,,,,,,bakeries
+229,O Carvalho Panificadora,34,,,,,,bakeries
+292,D 122 Burger,71,,,,,,restaurants
+292,D Burguer,71,,,,,,restaurants
+292,Primavera Gourmet,114,,,,,,restaurants
+292,Chaplin,27,,,,,,restaurants
+292,Café Doce Encontro,42,,,,,,restaurants
+292,Nassar Killo Grill Restaurant,43,,,,,,restaurants
+292,Catedral Especialidades Árabes,87,,,,,,restaurants
+292,Temakeya,56,,,,,,restaurants
+292,Churrasco Grego Friboi,71,,,,,,restaurants
+292,Varanda's Tico,71,,,,,,restaurants
+292,Ryoku Cha,54,,,,,,coffee shops
+292,"Herbalife EVS TOP Ana Rosa, Vila Mariana, Paraiso",112,,,,,,coffee shops
+292,Padaria Big Estaçäo,14,,,,,,bakeries
+603,Usina das Artes,16,,,,,,restaurants
+603,Aze Sushi,33,,,,,,restaurants
+603,Si Señor,46,,,,,,restaurants
+603,Bolados Sucos,102,,,,,,restaurants
+603,O Segredo dos Doces,102,,,,,,restaurants
+603,Temakeria e Cia,92,,,,,,restaurants
+603,Espaço vida saudável - Itaim Bibi,68,,,,,,restaurants
+603,Eat Fit,30,,,,,,restaurants
+603,Pepittus Bar,33,,,,,,restaurants
+603,Lunch4Fit,48,,,,,,restaurants
+603,Espaço vida saudável - Itaim Bibi,68,,,,,,coffee shops
+603,O Dom da Culinaria,85,,,,,,coffee shops
+603,Café do Ponto,103,,,,,,coffee shops
+295,A Portinha,85,,,,,,restaurants
+295,Villa dos Sabores,78,,,,,,restaurants
+295,Pedacinho do Nordeste,104,,,,,,restaurants
+295,Sabor & Cia,57,,,,,,restaurants
+295,Ninela,83,,,,,,restaurants
+295,Rei do caldo,74,,,,,,restaurants
+295,Oh My Burger Sp,76,,,,,,restaurants
+295,Burgueria Sô,86,,,,,,restaurants
+295,Yakisoba do China Estacao Paraiso,96,,,,,,restaurants
+295,José Augusto Martins & Irmao - Vl Mariana,63,,,,,,restaurants
+295,Agr Comunicacao,63,,,,,,coffee shops
+295,Yakisoba do China Estacao Paraiso,96,,,,,,coffee shops
+295,Empório Parque,28,,,,,,bakeries
+53,Trattoria Fasano,101,,,,,,restaurants
+53,Horácio Café,57,,,,,,restaurants
+53,Lanchonete Que Legal,80,,,,,,restaurants
+53,Citron,72,,,,,,restaurants
+53,Nova Picuí II,89,,,,,,restaurants
+53,Divina Hora Bar e Restaurante,92,,,,,,restaurants
+53,Arboretto,97,,,,,,restaurants
+53,Wraps - Itaim Bibi,61,,,,,,restaurants
+53,Arboretto Café e Cozinha,91,,,,,,restaurants
+53,Horácio Café,57,,,,,,coffee shops
+53,Coffee Lounge @ Google,45,,,,,,coffee shops
+53,EVS - Espaço Vida Saudável Herbalife,5,,,,,,coffee shops
+53,Raus Café,46,,,,,,coffee shops
+53,Baixo Augusta @ Google,51,,,,,,coffee shops
+53,Affari,94,,,,,,coffee shops
+53,Lanchonete Que Legal,80,,,,,,bakeries
+53,Ki Legal,98,,,,,,bakeries
+464,Sukiya,90,,,,,,restaurants
+464,Restaurante Santa Angela,90,,,,,,restaurants
+464,Restaurante Mariah,32,,,,,,restaurants
+464,Hot Dog - Ladeira da Morte,58,,,,,,restaurants
+464,Fran's Café,83,,,,,,restaurants
+464,Ponto de Encontro,75,,,,,,restaurants
+464,Charme da Vergueiro,82,,,,,,restaurants
+464,GiraGosto,82,,,,,,restaurants
+464,Liberdade Grill,99,,,,,,restaurants
+464,Habib's,98,,,,,,restaurants
+464,Fran's Café,83,,,,,,coffee shops
+464,Frans Café Hospital Sta Helena,66,,,,,,coffee shops
+464,Casa do Pão de Queijo,88,,,,,,coffee shops
+75,Panificadora Flor do Paraíso,67,,,,,,restaurants
+75,Restaurante Pirapora,55,,,,,,restaurants
+75,Empório da Vila,3,,,,,,restaurants
+75,Dalmago,32,,,,,,restaurants
+75,Dedé Lanchonete,47,,,,,,restaurants
+75,Strogonoff da Valéria,61,,,,,,restaurants
+75,Empório Mariana,64,,,,,,restaurants
+75,Barbarossa Restaurante,71,,,,,,restaurants
+75,Balaio de Corda,75,,,,,,restaurants
+75,Fiore di Vaniglia,76,,,,,,restaurants
+75,Verdasca Café,72,,,,,,coffee shops
+75,Only Café,24,,,,,,coffee shops
+75,Paneria IBM,59,,,,,,coffee shops
+75,EVS - Espaço Vida Saudável Herbalife,66,,,,,,coffee shops
+75,Café Pirapora,92,,,,,,coffee shops
+75,Panificadora Flor do Paraíso,67,,,,,,bakeries
+333,Buffet Mundo Mágico,39,,,,,,restaurants
+333,Kobe do China,48,,,,,,restaurants
+333,Lanchonete Águas Belas,50,,,,,,restaurants
+333,Calabouço da marmita,50,,,,,,restaurants
+333,Criacao Aktuell,52,,,,,,restaurants
+333,MacClaus,96,,,,,,restaurants
+333,Buffet Grécia Antiga Ltda,29,,,,,,restaurants
+90,Outback Steakhouse,87,,,,,,restaurants
+90,Trebbiano Ristorante / PortoBay Hotels & Resorts,71,,,,,,restaurants
+90,Vita Natural,89,,,,,,restaurants
+90,Bar da Vila Campinas Ltda ME,89,,,,,,restaurants
+90,Pecorino Bar & Trattoria,78,,,,,,restaurants
+90,Camarada Camarão,84,,,,,,restaurants
+90,Andiamo,91,,,,,,restaurants
+90,Spoleto,95,,,,,,restaurants
+90,Mister Sanduba,88,,,,,,restaurants
+90,First Floor - Restaurante CitiCenter,27,,,,,,restaurants
+90,We Coffee,72,,,,,,coffee shops
+90,The Original Cupcake,2,,,,,,coffee shops
+90,Mister Sanduba,88,,,,,,coffee shops
+90,Café Pamplona,29,,,,,,coffee shops
+90,Kitchenet,41,,,,,,coffee shops
+90,EVS - Espaço Vida Saudável Herbalife,62,,,,,,coffee shops
+90,Espaço Vida Saudável Trianon,64,,,,,,coffee shops
+90,Mug.Sp,80,,,,,,coffee shops
+90,Banquinha de Café,84,,,,,,coffee shops
+90,Benjamin A Padaria,80,,,,,,bakeries
+570,Pau no Gato Bar,64,,,,,,restaurants
+570,Lanchonete e Restaurante Rainha de Pinheiros,20,,,,,,restaurants
+570,Lanchonete Comfrey,23,,,,,,restaurants
+570,Lanchonete Comfrei,68,,,,,,restaurants
+570,Lanchonete Coqueiro III,73,,,,,,restaurants
+570,Jacks Lanches Ltda ME,87,,,,,,restaurants
+570,Lousiana,90,,,,,,restaurants
+570,Jones Bar,91,,,,,,restaurants
+570,Casa Batida,97,,,,,,restaurants
+570,Casa do Norte,27,,,,,,restaurants
+570,Lanchonete Comfrei,68,,,,,,coffee shops
+17,Boteco Boa Praça,60,,,,,,restaurants
+17,My Temaki,92,,,,,,restaurants
+17,Olea Lounge,37,,,,,,restaurants
+17,Freshie,64,,,,,,restaurants
+17,Sakeria Sushi & Bar,98,,,,,,restaurants
+17,Comark Café,46,,,,,,restaurants
+17,Lanchonete Restaurante Fraum,64,,,,,,restaurants
+17,Trem Bão,67,,,,,,restaurants
+17,Livlight Nutrição Gourmet,52,,,,,,restaurants
+17,Cozinharia Gastronomia,60,,,,,,restaurants
+412,Saracura Gastrobar,86,,,,,,restaurants
+412,Espaço 13,109,,,,,,restaurants
+412,Autentico,99,,,,,,restaurants
+412,Agnus Pizzaria,87,,,,,,restaurants
+412,Dj Burger,18,,,,,,restaurants
+412,Mamma d'oro,39,,,,,,restaurants
+412,da Praça Restaurante e Pizzaria,42,,,,,,restaurants
+412,Conselheiro Carrao460 Belavista,49,,,,,,restaurants
+412,Mamma Romano,52,,,,,,restaurants
+412,Moraes Pizzaria,68,,,,,,restaurants
+412,Canoleria do Bixiga,98,,,,,,coffee shops
+412,Autentico,99,,,,,,coffee shops
+412,Bar do Chiquinho,85,,,,,,bakeries
+27,Vino Mundi,76,,,,,,restaurants
+27,Ave Maria,15,,,,,,restaurants
+27,Bistrô Faria Lima,30,,,,,,restaurants
+27,Restaurante Majó,60,,,,,,restaurants
+27,Vila Manjerona,4,,,,,,restaurants
+27,Restaurante Pé Sujo,28,,,,,,restaurants
+27,Cachoeira das Andorinhas,18,,,,,,restaurants
+27,Vibbá,42,,,,,,restaurants
+27,Porto Luna,64,,,,,,restaurants
+27,Sun Sushi,44,,,,,,restaurants
+27,EVS - Espaço Vida Saudável Herbalife,5,,,,,,coffee shops
+27,Lille Confeitaria Artesanal,91,,,,,,coffee shops
+27,Icab Chocolateria,73,,,,,,coffee shops
+27,Cachoeira das Andorinhas,18,,,,,,coffee shops
+27,Café Bistrô,87,,,,,,coffee shops
+27,Padoca Dela Morte,34,,,,,,bakeries
+597,Barraca de Pastel Arakaki,33,,,,,,restaurants
+597,Restaurante Citania,41,,,,,,restaurants
+597,Bar e Lanches do Valdir,64,,,,,,restaurants
+597,Bar Fama Inflama,80,,,,,,restaurants
+597,Santa Cecilia Lanches,99,,,,,,restaurants
+597,Recanto dos Amigos,1562,,,,,,restaurants
+597,Maria de Lourdes Trindade Gavenas Me,59,,,,,,restaurants
+597,Official Cafeteria,35,,,,,,coffee shops
+597,Bar e Lanches do Valdir,64,,,,,,coffee shops
+557,Ráscal - Itaim,35,,,,,,restaurants
+557,Casa Fasano,50,,,,,,restaurants
+557,Z Deli Sandwiches,86,,,,,,restaurants
+557,Tchocolath,98,,,,,,restaurants
+557,Izakaya Kuroda,94,,,,,,restaurants
+557,Patties,89,,,,,,restaurants
+557,Grano Restaurante,78,,,,,,restaurants
+557,Mahau Restaurante e Bar,31,,,,,,restaurants
+557,Bordo,4,,,,,,restaurants
+557,Paris 6,35,,,,,,restaurants
+557,bandejão do JP,5,,,,,,coffee shops
+557,Raia Coffe,53,,,,,,coffee shops
+247,Lanchonete do Cepeusp,70,,,,,,restaurants
+183,Joanin Pizza,26,,,,,,restaurants
+183,Borger Burger,22,,,,,,restaurants
+183,Doceira Holandesa,35,,,,,,restaurants
+183,Mamoru Sushi,86,,,,,,restaurants
+183,Fraternidade 211,27,,,,,,restaurants
+183,Ilios,42,,,,,,restaurants
+183,Cacau Show - Vila Buarque,83,,,,,,restaurants
+183,Subway,81,,,,,,restaurants
+183,Açaí Fruit,81,,,,,,restaurants
+183,d'Gusta Caffe,10,,,,,,restaurants
+183,Cacau Show - Vila Buarque,83,,,,,,coffee shops
+183,EVS - Espaço Vida Saudável Herbalife,16,,,,,,coffee shops
+183,d'Gusta Caffe,10,,,,,,coffee shops
+183,Mestiço Café,10,,,,,,coffee shops
+183,Flipo Café,13,,,,,,coffee shops
+183,Café Teatro Anchieta,49,,,,,,coffee shops
+183,Tina Café,51,,,,,,coffee shops
+183,Mack Grill,76,,,,,,coffee shops
+183,Grão Espresso,87,,,,,,coffee shops
+183,Santiago Padaria Artesanal - Fermentação Natural,38,,,,,,bakeries
+184,O Mirandes,20,,,,,,restaurants
+184,Jhony's Bar e Restaurante,6,,,,,,restaurants
+184,Pizzaria Ramos,23,,,,,,restaurants
+184,Esquina Grill do Fuad,81,,,,,,restaurants
+184,Restaurante Dona Cida,82,,,,,,restaurants
+184,Casa de Bolos,94,,,,,,restaurants
+184,Seo Quintal,85,,,,,,restaurants
+184,Cantinho Argentino Gourmet’s,25,,,,,,restaurants
+184,La Serra Gaúcha,28,,,,,,restaurants
+184,Mirandas,34,,,,,,restaurants
+184,EVS - Espaço Vida Saudável Herbalife,69,,,,,,coffee shops
+83,Lanchonete da Cidade,12,,,,,,restaurants
+83,Le Vin Bistro,47,,,,,,restaurants
+83,Pôro Bar,76,,,,,,restaurants
+83,Pinocchio Cucina,17,,,,,,restaurants
+83,Lanchonete e Restaurante Palma de Ouro,37,,,,,,restaurants
+83,Restaurante Crocante,43,,,,,,restaurants
+83,Pit's Burger,57,,,,,,restaurants
+83,Gosteria,64,,,,,,restaurants
+83,Ummi Sushi,71,,,,,,restaurants
+83,Rumble Fish,77,,,,,,restaurants
+83,Caffè Napoli,50,,,,,,coffee shops
+83,Café Amigo,82,,,,,,coffee shops
+83,Mr. Baker,19,,,,,,bakeries
+83,Mr. Baker Jardins,22,,,,,,bakeries
+83,Panificio Luce,28,,,,,,bakeries
+527,Restaurante Jacob - unidade Itaim,38,,,,,,restaurants
+527,Pão com Carne - Hamburgueria,96,,,,,,restaurants
+527,Armazém de Doces,37,,,,,,restaurants
+527,Martins Bar e Culinária Nordestina,56,,,,,,restaurants
+527,CEP Itaim,56,,,,,,restaurants
+527,Bares e Lanches 698,24,,,,,,restaurants
+527,Gois Restaurantes,45,,,,,,restaurants
+527,Mega Matte,25,,,,,,restaurants
+527,New Taste,82,,,,,,restaurants
+527,Recanto Urussui,55,,,,,,restaurants
+527,Mega Matte,25,,,,,,coffee shops
+527,Recanto Urussui,55,,,,,,coffee shops
+527,Bares e Lanches 698,24,,,,,,bakeries
+527,Latine Padaria Express Ltda,92,,,,,,bakeries
+163,Árvore do Pão,49,,,,,,restaurants
+163,Laboratório do Sabor Gastromia,29,,,,,,restaurants
+163,Lanchonete Nova Paim,31,,,,,,restaurants
+163,Universal Brother,37,,,,,,restaurants
+163,Pit Stop do Açaí,75,,,,,,restaurants
+163,Canto da Tapioca,84,,,,,,restaurants
+163,Griletto,65,,,,,,restaurants
+163,O Gato Drinks e Artes,96,,,,,,restaurants
+163,Estação Café,48,,,,,,coffee shops
+163,Árvore do Pão,49,,,,,,bakeries
+224,Vino! Pinheiros,52,,,,,,restaurants
+224,da Mooca Pizza Shop,56,,,,,,restaurants
+224,Tan Tan,52,,,,,,restaurants
+224,Torteria - Pinheiros,67,,,,,,restaurants
+224,Oak's California Burrito,43,,,,,,restaurants
+224,Rendez-Vous,82,,,,,,restaurants
+224,Yǒng Dim Sum Bar (Yong Dim Sum Bar),43,,,,,,restaurants
+224,Rozala Cozinha Árabe,73,,,,,,restaurants
+224,Hoko Restaurante,55,,,,,,restaurants
+224,Temakeria & Cia,97,,,,,,restaurants
+224,Coffee Walk,61,,,,,,coffee shops
+224,Cantina Opus,80,,,,,,coffee shops
+224,Lanchonete Cuca Real II,92,,,,,,coffee shops
+224,Mundial Clinic,102,,,,,,bakeries
+37,Supra di Mauro Maia,48,,,,,,restaurants
+37,Espaço D Gastronomia,82,,,,,,restaurants
+37,Amarelinho das Batidas,67,,,,,,restaurants
+37,Huto Kohi,86,,,,,,restaurants
+37,Zé Gordo,28,,,,,,restaurants
+37,Xopotó,63,,,,,,restaurants
+37,Nattu Restaurante,92,,,,,,restaurants
+37,Fat Cow,77,,,,,,restaurants
+37,Bargallo,54,,,,,,restaurants
+37,Trapiche Bar,20,,,,,,restaurants
+37,Espaço D Gastronomia,82,,,,,,coffee shops
+37,Kopenhagen Kop Koffee,81,,,,,,coffee shops
+37,Lanchonete Komilanca Ltda ME,17,,,,,,coffee shops
+37,Tea Connection,43,,,,,,coffee shops
+37,Battera Restaurante Japonês,79,,,,,,coffee shops
+554,Osaka,30,,,,,,restaurants
+554,Parigi,2,,,,,,restaurants
+554,Oguru Sushi & Bar,75,,,,,,restaurants
+554,La Tambouille,99,,,,,,restaurants
+554,Bagatelle SP,20,,,,,,restaurants
+554,Cebicheria Peruana,93,,,,,,restaurants
+554,Chico Alves Restaurante,44,,,,,,restaurants
+554,Forneria San Paolo,90,,,,,,restaurants
+554,Skull Bar,52,,,,,,restaurants
+554,Bottega Bernacca Itaim,25,,,,,,restaurants
+554,Coffee 5,49,,,,,,coffee shops
+285,Cora,50,,,,,,restaurants
+285,Eclair Moi,55,,,,,,restaurants
+285,Divina Increnca,53,,,,,,restaurants
+285,Ds Delícias de Sabores,56,,,,,,restaurants
+285,Domino's Republica,61,,,,,,restaurants
+285,Boteco do Major,65,,,,,,restaurants
+285,Restaurante Citania Ltda ME,73,,,,,,restaurants
+285,Lanchonete Estrela do Sabor,86,,,,,,restaurants
+285,Ocupa Centro,102,,,,,,restaurants
+285,Manjar dos Deuses,84,,,,,,restaurants
+285,Lógico Café,58,,,,,,coffee shops
+315,Lá no Pastel,39,,,,,,restaurants
+315,Bom Pastel,52,,,,,,restaurants
+315,Restaurante Alto do Pilão,71,,,,,,restaurants
+315,Cafe Turin,89,,,,,,restaurants
+315,A Cor do Café,45,,,,,,coffee shops
+122,Just Cupcakes,40,,,,,,restaurants
+122,Mestrado Bar,85,,,,,,restaurants
+122,Eba Delicias Naturais,45,,,,,,restaurants
+122,Almazar Especialidades Árabes,41,,,,,,restaurants
+122,El Zammar,33,,,,,,restaurants
+122,Garagem 190,37,,,,,,restaurants
+122,Come On Burger,38,,,,,,restaurants
+122,Lanches No Camarim,40,,,,,,restaurants
+122,Bruthus do Açaí,44,,,,,,restaurants
+122,Delivery Pizza,48,,,,,,restaurants
+86,Espaço Vida Saudável Paulista Herbalife cj. Nacional 18º Andar,41,,,,,,restaurants
+86,The Burger Market,96,,,,,,restaurants
+86,Cristallo,18,,,,,,restaurants
+86,Blue Berry,28,,,,,,restaurants
+86,KFC,86,,,,,,restaurants
+86,Pecorino,85,,,,,,restaurants
+86,Loubet Brigaderia,74,,,,,,restaurants
+86,Salad Creations,93,,,,,,restaurants
+86,Burger King,87,,,,,,restaurants
+86,Giraffas,9,,,,,,restaurants
+86,Mr. Cheney Cookies,99,,,,,,coffee shops
+86,Cristallo,18,,,,,,coffee shops
+86,Banana Split Vitaminas e Lanches,97,,,,,,coffee shops
+86,Café d'Italia,26,,,,,,coffee shops
+86,EVS - Herbalife  Lúcia e Bete,30,,,,,,coffee shops
+86,Delta Expresso,34,,,,,,coffee shops
+86,Espaço Vida Saudável,42,,,,,,coffee shops
+86,Brunella,43,,,,,,coffee shops
+86,Trodlo,44,,,,,,coffee shops
+86,Espaço Herbalife Nutrition Paulista - IgniçãoFit,49,,,,,,coffee shops
+86,Mundo Pão do Olivier,76,,,,,,bakeries
+86,Ohbolo,69,,,,,,bakeries
+86,Thanks Padaria Ltda-epp,9,,,,,,bakeries
+86,Martins da Costa & Cia,9,,,,,,bakeries
+561,El Tranvia - Itaim,42,,,,,,restaurants
+561,Coffee Break,37,,,,,,restaurants
+561,Benoah,20,,,,,,restaurants
+561,Cult Gastronomia,33,,,,,,restaurants
+561,Soleluna Rest,60,,,,,,restaurants
+308,Zyrium Cafe,75,,,,,,restaurants
+308,Garagem,84,,,,,,restaurants
+308,Viva Mariana,91,,,,,,restaurants
+308,Bar e Restaurante Beirute,100,,,,,,restaurants
+308,Restaurante Tudo em Família,61,,,,,,restaurants
+308,Margarida Café,20,,,,,,coffee shops
+308,Café Soneto,58,,,,,,coffee shops
+308,Zyrium Cafe,75,,,,,,coffee shops
+308,Clementino Padaria Artesanal,14,,,,,,bakeries
+308,La Boulange,27,,,,,,bakeries
+336,Dr Apolo - Brooklin,21,,,,,,restaurants
+336,Adega Alentejana,109,,,,,,restaurants
+336,Lanchonete Guaraiuva,3,,,,,,restaurants
+336,Café Jolly,24,,,,,,restaurants
+336,James Burger,25,,,,,,restaurants
+336,Mccoy's,26,,,,,,restaurants
+336,A Esperança,30,,,,,,restaurants
+336,Buffet Maria Fulô,31,,,,,,restaurants
+336,SP Pizza,46,,,,,,restaurants
+336,Florida Lancheteria,56,,,,,,restaurants
+322,Cotovia Lanches,87,,,,,,restaurants
+322,Em Breve Hocca Bar,60,,,,,,restaurants
+322,Paleteca - A Verdadeira Paleta Mexicana,77,,,,,,restaurants
+322,La Trufell & Rose Cake,77,,,,,,restaurants
+322,Kappa Sushi,88,,,,,,restaurants
+322,Canto da Cotovia Lanchonete,116,,,,,,restaurants
+322,Liki Restaurantes Ltda,28,,,,,,restaurants
+322,Newton Pimentel Ésper Epp,28,,,,,,restaurants
+322,Coração Mineiro Restaurante Ltda,28,,,,,,restaurants
+322,Dasmae Serviços e Alimentação Ltda,28,,,,,,restaurants
+322,Coffe Shop - Pão de Açucar,20,,,,,,coffee shops
+4,Balcao B,21,,,,,,restaurants
+4,Restaurante Pôr do Sol,105,,,,,,restaurants
+4,Stillus Burger,15,,,,,,restaurants
+4,Carmani Restaurante,41,,,,,,restaurants
+4,Trattoria Villa Dei Cesare,93,,,,,,restaurants
+4,Boteco Faria Lima,19,,,,,,restaurants
+4,Espaço de Vida Saudável - Solange,27,,,,,,restaurants
+4,Bem Mineiro,101,,,,,,restaurants
+4,Restaurante Coffe Break,32,,,,,,restaurants
+4,Yoi! Rolls & Temaki,42,,,,,,restaurants
+4,Stillus Burger,15,,,,,,coffee shops
+4,Zé da Prata,67,,,,,,coffee shops
+4,EVS - Espaço Vida Saudável Herbalife,67,,,,,,coffee shops
+4,The Coffee,68,,,,,,coffee shops
+4,PagCafé,75,,,,,,coffee shops
+4,Drink's Lanches,85,,,,,,coffee shops
+4,RocKafé Faria Lima,107,,,,,,coffee shops
+4,Balcao B,21,,,,,,bakeries
+30,Bardega,68,,,,,,restaurants
+30,PF Bistrô,53,,,,,,restaurants
+30,La Nouba Bistrot,84,,,,,,restaurants
+30,Vine Cafe Sodexo,5,,,,,,restaurants
+30,Restaurante e Lanchonete Rainha do Sao Luis,49,,,,,,restaurants
+30,Peekaboo Buffet Infantil e Teens,29,,,,,,restaurants
+30,Kopenhagen - Hospital São Luiz,85,,,,,,restaurants
+30,La Nonba,88,,,,,,restaurants
+30,Sodexho Hosp Sao Luiz 5845,49,,,,,,restaurants
+30,Buffet Peekaboo Ltda ME,94,,,,,,restaurants
+30,Petit Brûlée,5,,,,,,coffee shops
+30,Coco Café,23,,,,,,coffee shops
+30,Cosmopolitan Café & Bistrô,88,,,,,,coffee shops
+30,Piacere Molise,45,,,,,,coffee shops
+30,Cafe Teneriffe,52,,,,,,coffee shops
+30,Café Ouro Preto,58,,,,,,coffee shops
+30,Aroma Cafeteria,67,,,,,,coffee shops
+30,Ponto do café I,67,,,,,,coffee shops
+30,Vive Café Sodexo,30,,,,,,coffee shops
+30,Liverpool Café e Chocolates,78,,,,,,coffee shops
+105,Tatu Bola,50,,,,,,restaurants
+105,Lucca Italian Casual,72,,,,,,restaurants
+105,Amelia Restaurante,75,,,,,,restaurants
+105,Kildare Irish Pub,80,,,,,,restaurants
+105,Costelada Beer Festival,19,,,,,,restaurants
+105,Nombe Izakaya,79,,,,,,restaurants
+105,Empório Francisca,55,,,,,,restaurants
+105,Lanchonete Novo Brooklin,65,,,,,,restaurants
+105,Green Joy,59,,,,,,restaurants
+105,Luca Restaurante,65,,,,,,restaurants
+105,Café Itamaracá,42,,,,,,coffee shops
+105,Coffee Hall,27,,,,,,coffee shops
+105,Grand Caffee,30,,,,,,coffee shops
+118,Bem Torta Biströ & Lounge,18,,,,,,restaurants
+118,Mercadinho Natural,19,,,,,,restaurants
+118,JP Gourmet,7,,,,,,restaurants
+118,Bendito Quindim,50,,,,,,restaurants
+118,1165 Village,48,,,,,,restaurants
+118,Tradicional Bolos Caseiros,7,,,,,,restaurants
+118,Hakka Sushi,58,,,,,,restaurants
+118,Pachamama,33,,,,,,restaurants
+118,Temakeria e Cia,63,,,,,,restaurants
+118,Santa Receita,56,,,,,,restaurants
+118,Mercadinho Natural,19,,,,,,coffee shops
+118,Bendito Quindim,50,,,,,,coffee shops
+118,Coffeetown,93,,,,,,coffee shops
+118,Cheirin Bão,4,,,,,,coffee shops
+118,Quintas do Cardoso Bar,97,,,,,,coffee shops
+118,Donna Doceria,27,,,,,,coffee shops
+118,EVS - Rodrigo e Roseli,38,,,,,,coffee shops
+118,K-Coffee,47,,,,,,coffee shops
+118,WorkStation Café Vila Olímpia,62,,,,,,coffee shops
+118,EVS - Espaço Herbalife Casarão,107,,,,,,coffee shops
+551,Tessen,44,,,,,,restaurants
+551,Hospedaria,41,,,,,,restaurants
+551,Muuburger,77,,,,,,restaurants
+551,Lolla Meets Fire,91,,,,,,restaurants
+551,Nozh Restaurante,94,,,,,,restaurants
+551,Marach,94,,,,,,restaurants
+551,Tatu Bola Bar e Grelha,81,,,,,,restaurants
+551,Barakah Cozinha Árabe,71,,,,,,restaurants
+551,Bassano Restaurante,33,,,,,,restaurants
+551,Inazuma,74,,,,,,restaurants
+551,A Bollaria,73,,,,,,coffee shops
+551,EVS - Espaço Vida Saudável Herbalife,62,,,,,,coffee shops
+551,EVS - Espaço Vida Saudável,11,,,,,,coffee shops
+551,Abolaria,58,,,,,,coffee shops
+551,Carambola's,61,,,,,,coffee shops
+551,Saborea Cafe,78,,,,,,coffee shops
+551,Té Y Café,88,,,,,,coffee shops
+551,Princesinha da Floriano,21,,,,,,bakeries
+1,Capice,50,,,,,,restaurants
+1,lanchonete Teodoro,67,,,,,,restaurants
+1,Gyu-don,68,,,,,,restaurants
+1,Lanchonete Izidoro,89,,,,,,restaurants
+1,Gramado Food,89,,,,,,restaurants
+1,Bar e Lanchonete Goela Seca,101,,,,,,restaurants
+1,Potato Square,26,,,,,,restaurants
+1,Yakissoba Mix Restaurante,44,,,,,,restaurants
+1,Café Retrô,30,,,,,,coffee shops
+1,Parada Expressa,31,,,,,,coffee shops
+1,Grão Espresso,67,,,,,,coffee shops
+1,Lanchonete Izidoro,89,,,,,,coffee shops
+1,EVS - Espaço Vida Saudável Herbalife,78,,,,,,coffee shops
+1,Central Lanches,81,,,,,,coffee shops
+240,Senzala Restaurante,57,,,,,,restaurants
+240,Burger King,98,,,,,,restaurants
+240,Leo Dolci,44,,,,,,restaurants
+240,Casa do Pão de Queijo,70,,,,,,coffee shops
+240,McCafé,79,,,,,,coffee shops
+240,Leo Dolci,44,,,,,,bakeries
+450,La Casa Bar,83,,,,,,restaurants
+450,Bar do Tigrão,29,,,,,,restaurants
+450,Castelinho Beer,105,,,,,,restaurants
+450,Subway,71,,,,,,restaurants
+450,JapoBar Temaki & Burguer,22,,,,,,restaurants
+450,Girão Bar,12,,,,,,restaurants
+450,Natural's - Temakeria Express,27,,,,,,restaurants
+450,Vale Frango,23,,,,,,restaurants
+450,Sushi Net,27,,,,,,restaurants
+450,Pizzaria e Esfiharia Família Oliveira,29,,,,,,restaurants
+450,Espaço Vida Saudavel Evs Barra Funda Herbalife,14,,,,,,coffee shops
+450,Am Pm - Posto Agua Branca,30,,,,,,coffee shops
+450,cofee break Uninove Memorial,42,,,,,,coffee shops
+254,Poli - Mecânica,95,,,,,,restaurants
+112,Caffé Bette,40,,,,,,restaurants
+112,Charme do Brooklin,25,,,,,,restaurants
+112,Cheiro Verde Grill,99,,,,,,restaurants
+112,Nova Era Rotissiere,63,,,,,,restaurants
+112,Na Lage,67,,,,,,restaurants
+112,L&M Restaurante,87,,,,,,restaurants
+112,Restaurante LM,96,,,,,,restaurants
+112,Si - Delicia,96,,,,,,restaurants
+112,Restaurante Panela de Minas,99,,,,,,restaurants
+112,Grão Sabor,65,,,,,,coffee shops
+317,Zeferina Bar & Restaurante,52,,,,,,restaurants
+317,Bar da Santa,155,,,,,,restaurants
+317,Lanchonete Santa Fe,7,,,,,,restaurants
+317,Pizzaria manuela,9,,,,,,restaurants
+317,Lanchonete Sta Fé,22,,,,,,restaurants
+317,Sukya,56,,,,,,restaurants
+317,Zeferina - Carnes Nobres e Cervejas Artesanais,65,,,,,,restaurants
+317,Naran,70,,,,,,restaurants
+317,Villa Vitto,86,,,,,,restaurants
+317,Vila Vito,86,,,,,,restaurants
+317,American Bar - Ed. New World Business,69,,,,,,coffee shops
+76,Casa de Comida Yaya Restaurante,107,,,,,,restaurants
+76,Restaurante Nóbrega Ltda,33,,,,,,restaurants
+76,Galettos,58,,,,,,restaurants
+76,Equipafesta,62,,,,,,restaurants
+76,Panificadora Charlu Ltda,79,,,,,,restaurants
+76,Café dos 20,55,,,,,,coffee shops
+76,Panificadora Charlu Ltda,79,,,,,,bakeries
+215,Lar Mar Bar,79,,,,,,restaurants
+215,Ilo Cocina Peruana,85,,,,,,restaurants
+215,Musha's Bar & Pizza,91,,,,,,restaurants
+215,Azay,99,,,,,,restaurants
+215,Namoranga Radio Bar,106,,,,,,restaurants
+215,da Lena,84,,,,,,restaurants
+215,Dona Flor Cafés Especiais,56,,,,,,coffee shops
+215,Centro Clínico Pinheiros - Cafeteria,56,,,,,,coffee shops
+215,Fridas Cafe,90,,,,,,coffee shops
+215,Gato Pingado,94,,,,,,coffee shops
+95,Halabi,24,,,,,,restaurants
+95,Sushi Guen (Sushi Guen | 寿司源),56,,,,,,restaurants
+95,Caffè Latte,29,,,,,,restaurants
+95,Kan,67,,,,,,restaurants
+95,Yakitori Mizusaka,50,,,,,,restaurants
+95,Mestiço Café,25,,,,,,restaurants
+95,Cafe Impresso,51,,,,,,restaurants
+95,Choperia Urca,98,,,,,,restaurants
+95,Burger King,42,,,,,,restaurants
+95,Pizzaria Urca,93,,,,,,restaurants
+95,Martins Fontes Café,34,,,,,,coffee shops
+95,Starbucks,72,,,,,,coffee shops
+95,Caffè Latte,29,,,,,,coffee shops
+95,Mestiço Café,25,,,,,,coffee shops
+95,Cafe Impresso,51,,,,,,coffee shops
+95,Espaço Vida Saudável Herbalife Paulista Brigadeiro,68,,,,,,coffee shops
+95,Rockafé,42,,,,,,coffee shops
+95,Café com Bolo Cafeteria,80,,,,,,coffee shops
+95,Cyber Café,80,,,,,,coffee shops
+95,Cafe Dufran,82,,,,,,coffee shops
+95,Family Padaria Ltda,43,,,,,,bakeries
