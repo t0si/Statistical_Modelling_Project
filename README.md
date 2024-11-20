@@ -1,19 +1,73 @@
-# Final-Project-Statistical-Modelling-with-Python
+# **Final Project: Statistical Modelling with Python**
 
-## Project/Goals
-My goal with this project was to get all the bike spots from the city of São Paulo using the CityBike API, and to locate restaurants, coffee shops, and bakeries within a 200-meter radius of each rental bike spot, and analyze the data to identify patterns and possibly some opportunities.
-## Process
-1- Get all the bike points in the the city of São Paulo, and record the latitude and longitude with the location id.
-2- Connect to foursquare and Yelp API, find Restaurants, Bakeries and Coffee Shops in a 200m radius. Record all the relevant information for data analyses.
-3- Combine the data from CityBikes API with the Yelp APi in one data set.
-4- Generate a sqlite database, with all the API's.
-5- Build a regression model, to check if any of the variables have any influence in the business ratings.
+## **Overview**
+This project explores statistical modeling by leveraging data from **CityBike**, **Yelp**, and **Foursquare** APIs. The goal was to analyze the relationship between the location of businesses near bike rental stations in São Paulo and their ratings.
 
-## Results
-The Yelp API was easier to use, but because I only had access to a free account, I faced limitations on the number of calls I could make daily. The Foursquare API gave me all the important columns with null values, so the data could not be used effectively.
+---
 
-## Challenges 
-The API documentation is good, but as this was my first project, I spent a lot of time figuring out how to return the correct data from Yelp and Foursquare. I also didn’t have enough time to check my data before conducting my linear regression.
+## **Project Goals**
+- **Primary Objective**: 
+  To identify and analyze patterns among restaurants, coffee shops, and bakeries located within a 200-meter radius of bike rental spots in São Paulo.
 
-## Future Goals
-If I had more time, I would fine-tune my request from the API and process my data more thoroughly before conducting my analysis."
+- **Key Steps**: 
+  1. Retrieve bike station data using the **CityBike API**. 
+  2. Collect business data (restaurants, bakeries, and coffee shops) via **Foursquare** and **Yelp APIs**. 
+  3. Analyze whether proximity to bike rental stations influences business ratings.
+
+---
+
+## **Process**
+
+### **Step 1: Gather Bike Rental Data**  
+- Retrieved all bike rental points in São Paulo using the **CityBike API**. 
+- Recorded the latitude, longitude, and station IDs.
+
+### **Step 2: Collect Business Data**  
+- Queried **Foursquare** and **Yelp APIs** to locate restaurants, bakeries, and coffee shops within a **200-meter radius** of each bike station. 
+- Stored relevant business details for analysis, such as: 
+  - Name 
+  - Category 
+  - Rating 
+  - Distance from the station 
+
+### **Step 3: Combine Datasets**  
+- Merged data from the **CityBike API** and the **Yelp API** into a unified dataset.
+
+### **Step 4: Database Creation**  
+- Generated a **SQLite database** to store and manage all API data.
+
+### **Step 5: Build and Analyze a Regression Model**  
+- Developed a **linear regression model** to explore correlations between variables (e.g., proximity, business category) and business ratings.
+
+---
+
+## **Results**
+
+- **Yelp API**: 
+  - Easy to use but limited by the free account’s daily call quota. 
+- **Foursquare API**: 
+  - Returned significant amounts of data, but many critical fields contained null values, limiting its utility. 
+
+---
+
+## **Challenges**
+1. **API Usage**: 
+   - This was my first project working with APIs, so understanding documentation and returning accurate results took time. 
+
+2. **Data Quality**: 
+   - Foursquare data contained too many null values to be effectively used. 
+
+---
+
+## **Future Goals**
+- Improve API request precision to retrieve better-quality data. 
+- Conduct more thorough preprocessing and cleaning of the dataset prior to analysis. 
+- Explore additional statistical techniques or machine learning models to refine insights. 
+
+---
+
+## **Technologies Used**
+- **Programming Language**: Python 
+- **Libraries**: pandas, numpy, scikit-learn, sqlite3 
+- **APIs**: CityBike, Yelp, Foursquare 
+- **Database**: SQLite 
